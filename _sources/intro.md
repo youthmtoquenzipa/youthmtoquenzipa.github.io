@@ -1,18 +1,94 @@
-# **System Manager V2.0** 
-**_[Registros Indispensables](https://script.google.com/macros/s/AKfycbz3lLmVbySHCLz2qWnRMAVdx_eLhB7A6WWu4VQOvgZXph9eqJMI_yCSEsljChzjzY5OuA/exec)_**
+# **Youth Ministry Toquenzipá** 
 
-**_[Source of Data](https://datastudio.google.com/s/kDOmRQzsBdc)_**
-_I think it is possible for ordinary people to choose to be extraordinary_
+*¡Únete a la Revolución Juvenil de Fe!*  
 
-### **By**: _Dra. Paola Sosa Bernal_   
+{bdg-primary}`Youth Ministry`
+
+```{admonition} Papa Francisco
+No subestimen el poder de su generación para transformar realidades y ser agentes de justicia y solidaridad.
+```
+
+```{admonition} Papa Francisco
+:class: tip, dropdown
+Jóvenes, no sean espectadores, vayan en busca de grandes sueños
+```
+
+Sabemos que como jóvenes universitarios o profesionales, tienes un **espíritu inquieto** y un deseo profundo de hacer una diferencia en el mundo. ***Te invitamos a ser parte de la Revolución Juvenil de Fe***, donde exploraremos la Doctrina Social de la Iglesia como guía para transformar la sociedad.
+
+La Doctrina Social de la Iglesia nos desafía a construir una sociedad más justa, solidaria y fraterna. Nos inspira a ser agentes de cambio en nuestra realidad cotidiana, desde nuestras profesiones, en nuestras relaciones y en la manera en que interactuamos con los demás.
+
+Queremos desafiarte a ser parte activa de la **transformación social**. A través de debates, proyectos comunitarios y acciones concretas, ***juntos construiremos un mundo más humano y sostenible***. Tu voz y tus habilidades son fundamentales para generar un impacto real en nuestra sociedad.
 
 ---
-| **Enlace**                                                                                                                                                                                                | **Descripcion**                                                                                                                                                 |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**Registro de Pacientes**](https://script.google.com/macros/s/AKfycbxk0pb0Yik5MXPxFnt0n1wd6BlxEmYdgloFRQMfXwLYU2UZuT15DyoLnK1XD1TDb5QiZg/exec)      | Registrar Pacientes.                                                                                                                                             |
-| [**Registro de Tratamientos**](https://script.google.com/macros/s/AKfycbzlDpGl15XgD4TctwM3SUE0AghKdXIdbBDgsjHTxndvzCV4VUDXdnF_o2Epw2tjUOz1bw/exec) | Registrar Tratamientos.                                                                                                                                          |
-| [**Solicitudes**](https://script.google.com/macros/s/AKfycbyvhusf8FuO9uN8-o1E3kmp9Iov4B9I1gWaXXxLxO3QU8y3qLQ0CI_adykzZNsEWQQuuQ/exec)               | Consentimientos Informados,Cotizaciones, Cosentimientos Especialistas, Soporte de Pago, Prescripciones Medicas, Historia Clinica, Actualizar Historias Clinicas, RIPS. |
-| [**Cotización**](https://script.google.com/macros/s/AKfycbyw5QH8DWZWnQXmwXjKrDIhziqZyNtFc9QhLXVYLk13Wm0mWDhlRALCdx6JkZ3M9slh_w/exec)               | Cotizaciones, Listado de Precios.                                                                                                                             |
-| [**Especialistas**](https://script.google.com/macros/s/AKfycbwURoCPunBvTQpoEdUKKJwxRDwQkVqs_2be7a9Z0Bg8HGSd3BIwHlQwWq-wAIG3pj4/exec)              | Registrar Especialistas, Registro de Pagos Especialistas, Honorarios Especialistas.                                                                                 |
-| [**Facturación**](https://script.google.com/macros/s/AKfycbzGldkejWbv4wWFYW-l4DFKsmn-OVgiLjt19V3ZGZij-jSh1AiS-8jnAECX_wbH5e9S/exec)                    | Registro Proveedores, Pagos a Proveedores, Balance General.                                                                                                  |
-| [**Ortodoncia**](https://script.google.com/macros/s/AKfycbyQ4M-_HYrmo7gkvDtXsLyvFDZ3f6B3OkgsyV9bu4HGfJ4o5WI3DbXbt9wMbgZXJu01/exec)                     | Registrar Pacientes, Actualizar Datos, Registrar Tratamientos.                                                                                               |
+
+## **Construyendo Nuestra Identidad**   
+
+{bdg-primary}`visión, mision y valores/virtudes`
+
+En nuestra búsqueda por crecer y evolucionar como comunidad de jóvenes profesionales comprometidos, reconocemos la importancia de revisar y actualizar nuestra misión, visión y valores. Como profesionales, tenemos la responsabilidad de asegurarnos de que estos fundamentos reflejen nuestra identidad actual, nuestras aspiraciones y los desafíos que enfrentamos en Tocancipá. Antes y durante la revisión, hazte las siguientes preguntas para ayudarte a formar una opinión crítica.
+
+
+<!-- ````{tab-set}
+```{tab-item} Valores/Virtudes
+
+**Conexión Auténtica**:  Fomentamos una comunicación abierta, respetuosa y efectiva entre los jóvenes y con la comunidad en general. Valoramos la escucha activa y la expresión clara de ideas y sentimientos.
+```
+```{tab-item} Misión
+Expandir las oportunidades y la participación socio-política de lo que enmarca un grupo juvenil regular. **Nos dedicamos a empoderar a los jóvenes**, brindándoles las herramientas y el apoyo necesario para que sean agentes de cambio en nuestra comunidad.
+```
+
+```{tab-item} Visión
+Trascender las barreras del núcleo familiar, promoviendo el diálogo y caminando junto a aquellos que carecen de esperanza. Buscamos abrir espacios y brindar oportunidades a quienes se autoexcluyen, trabajando activamente para construir una comunidad más inclusiva y solidaria.
+```
+```` -->
+
+
+- ¿Crees que es lo suficientemente claro y comprensible para todos los **miembros del equipo**?
+- ¿Crees que estas definiciones inspirarán y motivarán a los jóvenes a **participar activamente**?
+- ¿Las virtudes propuestas son relevantes y aplicables a las situaciones y desafíos que enfrentamos como equipo?
+- ¿Cómo podemos asegurarnos de que estas definiciones se integren de manera efectiva en nuestras actividades diarias?
+- ¿Cómo crees que mediremos y evaluaremos el **éxito de nuestra implementación de la misión, visión y virtudes a largo plazo**?
+
+
+```{admonition} Valores/Virtudes
+:class: tip, dropdown
+- 💡 **Conexión Auténtica**:  Fomentamos una comunicación abierta, respetuosa y efectiva entre los jóvenes y con la comunidad en general. Valoramos la escucha activa y la expresión clara de ideas y sentimientos.
+
+- 💡 **Solidaridad**: Nos comprometemos a ser solidarios con los más necesitados, brindando apoyo y colaboración tanto dentro como fuera de la comunidad de jóvenes en Tocancipá.
+
+- 💡 **Humildad Transformadora**: Promovemos la renuncia al egoísmo. Reconocemos que nuestros talentos y habilidades son dones que deben ser utilizados para el servicio de los demás.
+
+- 💡 **Inspiración Viva**: Nos esforzamos por ser modelos a seguir en nuestra conducta y acciones. Actuamos de acuerdo con nuestros valores y principios, siendo coherentes en todas las áreas de nuestra vida.
+
+- 💡 **Sabiduría Práctica en Práctica**: Buscamos el crecimiento personal y espiritual a través del estudio, la reflexión y la acción. No solo adquirimos conocimientos, sino que también los aplicamos en nuestra vida diaria para generar un impacto positivo.
+
+- 💡 **Logro Práctico**: Nos comprometemos a alcanzar metas concretas y a obtener resultados tangibles en nuestros proyectos y acciones. Trabajamos con determinación y perseverancia para lograr nuestros objetivos.
+
+- 💡 **Espíritu de Aventura**: Nos motivamos a explorar nuevos horizontes y a emprender proyectos audaces que nos desafían. Nos esforzamos por superar nuestros propios límites y alcanzar metas aparentemente inalcanzables, impulsados por una determinación inquebrantable.
+
+- 💡 **Contribución Constructiva**: Nos consideramos agentes de cambio en nuestra comunidad. Contribuimos activamente en la construcción de un mundo mejor, promoviendo valores y acciones positivas en todos los aspectos de la sociedad.
+
+- 💡 **Responsabilidad Empoderadora**: Asumimos la responsabilidad de nuestras decisiones y acciones. Nos consideramos dueños de nuestro propio crecimiento y desarrollo, tomando el control de nuestras vidas y asumiendo las consecuencias de nuestras elecciones.
+
+- 💡 **Humildad**: Reconocemos nuestras limitaciones y aceptamos nuestros errores. Valoramos la autenticidad y la capacidad de aprender de los demás. Cultivamos la humildad como una virtud fundamental para nuestro crecimiento espiritual.
+
+```
+
+```{admonition} Misión
+:class: tip, dropdown
+Expandir las oportunidades y la participación socio-política de lo que enmarca un grupo juvenil regular. Nos dedicamos a empoderar a los jóvenes, brindándoles las herramientas y el apoyo necesario para que sean agentes de cambio en nuestra comunidad.
+```
+
+```{admonition} Visión
+:class: tip, dropdown
+Trascender las barreras del núcleo familiar, promoviendo el diálogo y caminando junto a aquellos que carecen de esperanza. Buscamos abrir espacios y brindar oportunidades a quienes se autoexcluyen, trabajando activamente para construir una comunidad más inclusiva y solidaria.
+```
+
+````{card} **¿Estás listo para darnos tu opinión crítica?**
+
+¡Desata tu creatividad y exprésate desde tu punto de vista!
+^^^
+[Haz clic aquí y déjanos tu opinión en el formulario.](https://docs.google.com/forms/d/e/1FAIpQLSePEtjKj1WEBNjQFZMqZjW-NzOJ7KWFs0rcJtKf_93EBbrh0Q/viewform?usp=sf_link)
++++
+*Nunca te arrepentirás de ser parte de este gran equipo.*
+````
