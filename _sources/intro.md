@@ -1,4 +1,4 @@
-# **Youth Ministry Toquenzipá** 
+# **Home** 
 
 *¡Únete a la Revolución Juvenil de Fe!*  
 
@@ -13,7 +13,7 @@ No subestimen el poder de su generación para transformar realidades y ser agent
 Jóvenes, no sean espectadores, vayan en busca de grandes sueños
 ```
 
-Sabemos que como jóvenes universitarios o profesionales, tienes un **espíritu inquieto** y un deseo profundo de hacer una diferencia en el mundo. ***Te invitamos a ser parte de la Revolución Juvenil de Fe***, donde exploraremos la Doctrina Social de la Iglesia como guía para transformar la sociedad.
+Sabemos que como jóven universitari@ o profesional, tienes un **espíritu inquieto** y un deseo profundo de marcar la diferencia en el mundo. **Te invitamos a ser parte de la Revolución Juvenil de Fe**, donde exploraremos la Doctrina Social de la Iglesia como guía para transformar la sociedad.
 
 La Doctrina Social de la Iglesia nos desafía a construir una sociedad más justa, solidaria y fraterna. Nos inspira a ser agentes de cambio en nuestra realidad cotidiana, desde nuestras profesiones, en nuestras relaciones y en la manera en que interactuamos con los demás.
 
@@ -21,12 +21,11 @@ Queremos desafiarte a ser parte activa de la **transformación social**. A trav�
 
 ---
 
-## **Construyendo Nuestra Identidad**   
+## **Sketch Construyendo Nuestra Identidad**   
 
 {bdg-primary}`visión, mision y valores/virtudes`
 
-En nuestra búsqueda por crecer y evolucionar como comunidad de jóvenes profesionales comprometidos, reconocemos la importancia de revisar y actualizar nuestra misión, visión y valores. Como profesionales, tenemos la responsabilidad de asegurarnos de que estos fundamentos reflejen nuestra identidad actual, nuestras aspiraciones y los desafíos que enfrentamos en Tocancipá. Antes y durante la revisión, hazte las siguientes preguntas para ayudarte a formar una opinión crítica.
-
+En nuestra búsqueda por crecer y evolucionar como comunidad de jóvenes profesionales comprometidos, reconocemos la importancia de revisar y actualizar nuestra misión, visión y valores. Como profesionales, tenemos la responsabilidad de asegurarnos de que estos fundamentos reflejen nuestra identidad actual, nuestras aspiraciones y los desafíos que enfrentamos en Tocancipá. {bdg-warning}`Click to Show` Haz clic en la caja para ver el contenido.
 
 <!-- ````{tab-set}
 ```{tab-item} Valores/Virtudes
@@ -42,16 +41,13 @@ Trascender las barreras del núcleo familiar, promoviendo el diálogo y caminand
 ```
 ```` -->
 
-
-- ¿Crees que es lo suficientemente claro y comprensible para todos los **miembros del equipo**?
-- ¿Crees que estas definiciones inspirarán y motivarán a los jóvenes a **participar activamente**?
-- ¿Las virtudes propuestas son relevantes y aplicables a las situaciones y desafíos que enfrentamos como equipo?
-- ¿Cómo podemos asegurarnos de que estas definiciones se integren de manera efectiva en nuestras actividades diarias?
-- ¿Cómo crees que mediremos y evaluaremos el **éxito de nuestra implementación de la misión, visión y virtudes a largo plazo**?
-
-
-```{admonition} Valores/Virtudes
+```{admonition} Valores/Virtudes 👆
 :class: tip, dropdown
+
+
+🔍 **Valores vs Virtudes**: Los valores son los fundamentos conceptuales y los pilares de una cultura organizacional o una comunidad, mientras que las virtudes son las manifestaciones prácticas y personales de esos valores.  
+
+
 - 💡 **Conexión Auténtica**:  Fomentamos una comunicación abierta, respetuosa y efectiva entre los jóvenes y con la comunidad en general. Valoramos la escucha activa y la expresión clara de ideas y sentimientos.
 
 - 💡 **Solidaridad**: Nos comprometemos a ser solidarios con los más necesitados, brindando apoyo y colaboración tanto dentro como fuera de la comunidad de jóvenes en Tocancipá.
@@ -71,24 +67,37 @@ Trascender las barreras del núcleo familiar, promoviendo el diálogo y caminand
 - 💡 **Responsabilidad Empoderadora**: Asumimos la responsabilidad de nuestras decisiones y acciones. Nos consideramos dueños de nuestro propio crecimiento y desarrollo, tomando el control de nuestras vidas y asumiendo las consecuencias de nuestras elecciones.
 
 - 💡 **Humildad**: Reconocemos nuestras limitaciones y aceptamos nuestros errores. Valoramos la autenticidad y la capacidad de aprender de los demás. Cultivamos la humildad como una virtud fundamental para nuestro crecimiento espiritual.
-
 ```
 
-```{admonition} Misión
+```{admonition} Draft Misión 👆
 :class: tip, dropdown
 Expandir las oportunidades y la participación socio-política de lo que enmarca un grupo juvenil regular. Nos dedicamos a empoderar a los jóvenes, brindándoles las herramientas y el apoyo necesario para que sean agentes de cambio en nuestra comunidad.
 ```
 
-```{admonition} Visión
+```{admonition} Draft Visión 👆
 :class: tip, dropdown
 Trascender las barreras del núcleo familiar, promoviendo el diálogo y caminando junto a aquellos que carecen de esperanza. Buscamos abrir espacios y brindar oportunidades a quienes se autoexcluyen, trabajando activamente para construir una comunidad más inclusiva y solidaria.
 ```
 
+---
+
+## **Empezamos: ¡Tu Ayuda Hará la Diferencia!**  
+
+Ahora que comprendes la importancia de **construir nuestra identidad**, ha llegado el momento de actuar. La misión, visión y virtudes que has leído anteriormente son solo un **Sketch/bosquejo** inicial, pero con tu ayuda, pronto se **convertirán en algo más**. Este es un momento crítico de decisión, ya que definirá nuestras acciones y propuestas para el futuro. Aprovecha este espacio para expresar tu opinión y contribuir al proceso. Antes de abrir el **[formulario](https://docs.google.com/forms/d/e/1FAIpQLSePEtjKj1WEBNjQFZMqZjW-NzOJ7KWFs0rcJtKf_93EBbrh0Q/viewform?usp=sf_link)** y durante la revisión, reflexiona sobre las siguientes preguntas para ayudarte a formar una opinión crítica.
+
+
+- ¿Crees que es lo suficientemente claro y comprensible para todos los **miembros del equipo**?
+- ¿Crees que estas definiciones inspirarán y motivarán a los jóvenes a **participar activamente**?
+- ¿Las virtudes propuestas son relevantes y aplicables a las situaciones y desafíos que enfrentamos como equipo?
+- ¿Cómo podemos asegurarnos de que estas definiciones se integren de manera efectiva en nuestras actividades diarias?
+- ¿Cómo crees que mediremos y evaluaremos el **éxito de nuestra implementación de la misión, visión y virtudes a largo plazo**?
+
+
 ````{card} **¿Estás listo para darnos tu opinión crítica?**
 
-¡Desata tu creatividad y exprésate desde tu punto de vista!
+> ¡Desata tu creatividad 🧠🤯💭 y exprésate desde tu punto de vista!
 ^^^
-[Haz clic aquí y déjanos tu opinión en el formulario.](https://docs.google.com/forms/d/e/1FAIpQLSePEtjKj1WEBNjQFZMqZjW-NzOJ7KWFs0rcJtKf_93EBbrh0Q/viewform?usp=sf_link)
+**[¡Haz clic aquí y revisemos juntos cada definición!](https://docs.google.com/forms/d/e/1FAIpQLSePEtjKj1WEBNjQFZMqZjW-NzOJ7KWFs0rcJtKf_93EBbrh0Q/viewform?usp=sf_link)**
 +++
 *Nunca te arrepentirás de ser parte de este gran equipo.*
 ````
