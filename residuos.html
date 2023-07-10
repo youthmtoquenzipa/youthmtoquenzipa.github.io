@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>PGIRH &#8212; System Manager V2.0</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -63,7 +62,21 @@ const thebe_selector_output = ".output, .cell_output"
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -72,9 +85,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
       
@@ -87,14 +101,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
-        <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="intro.html">
-   System Manager V2.0
-  </a>
- </li>
-</ul>
-<ul class="current nav bd-sidenav">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="intro.html">
+                    System Manager V2.0
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
  <li class="toctree-l1 current active has-children">
   <a class="reference internal" href="habilitacion.html">
    Habilitación
@@ -152,90 +167,180 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
-</div>
-
-
-          
-
-
-          
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
-    
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
             
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
-        
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/residuos.md"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
-    </div>
-</div>
-
-            <!-- Source interaction buttons -->
-
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
-        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
-    <div class="dropdown-buttons sourcebuttons">
-        <a class="repository-button"
-            href="https://clinicapaola.github.io/"><button type="button" class="btn btn-secondary topbarbtn"
-                data-toggle="tooltip" data-placement="left" title="Source repository"><i
-                    class="fab fa-github"></i>repository</button></a>
-        <a class="issues-button"
-            href="https://clinicapaola.github.io//issues/new?title=Issue%20on%20page%20%2Fresiduos.html&body=Your%20issue%20content%20here."><button
-                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
-                title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
-        
-    </div>
-</div>
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
             </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-repository-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Source repositories">
+      <i class="fab fa-github"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="https://clinicapaola.github.io/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Source repository"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="headerbtn__text-container">repository</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="https://clinicapaola.github.io//issues/new?title=Issue%20on%20page%20%2Fresiduos.html&body=Your%20issue%20content%20here."
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Open an issue"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="headerbtn__text-container">open issue</span>
+</a>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/residuos.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#plan-de-gestion-integral-de-residuos-hospitalarios-y-similares-pgirh">
    <strong>
@@ -287,12 +392,11 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>PGIRH</h1>
@@ -360,16 +464,17 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="pgirh">
-<h1>PGIRH<a class="headerlink" href="#pgirh" title="Permalink to this headline">¶</a></h1>
-<div class="section" id="plan-de-gestion-integral-de-residuos-hospitalarios-y-similares-pgirh">
-<h2><strong>Plan de Gestión Integral de Residuos Hospitalarios y Similares (PGIRH)</strong><a class="headerlink" href="#plan-de-gestion-integral-de-residuos-hospitalarios-y-similares-pgirh" title="Permalink to this headline">¶</a></h2>
+  <section class="tex2jax_ignore mathjax_ignore" id="pgirh">
+<h1>PGIRH<a class="headerlink" href="#pgirh" title="Permalink to this headline">#</a></h1>
+<section id="plan-de-gestion-integral-de-residuos-hospitalarios-y-similares-pgirh">
+<h2><strong>Plan de Gestión Integral de Residuos Hospitalarios y Similares (PGIRH)</strong><a class="headerlink" href="#plan-de-gestion-integral-de-residuos-hospitalarios-y-similares-pgirh" title="Permalink to this headline">#</a></h2>
 <p>Dra. Paola Sosa</p>
-<div class="section" id="introduccion">
-<h3><strong>Introducción</strong><a class="headerlink" href="#introduccion" title="Permalink to this headline">¶</a></h3>
+<section id="introduccion">
+<h3><strong>Introducción</strong><a class="headerlink" href="#introduccion" title="Permalink to this headline">#</a></h3>
 <p>Los residuos hospitalarios y similares representan un riesgo para mi salud y la de los pacientes, visitantes y de la comunidad en general, además del riesgo ambiental que de ellos se derivan. A. dando continuidad al plan integral de gestión de residuos hospitalarios y similares y así como ésta y en general todas las entidades que prestan servicios de salud producen desechos que pueden ser peligrosos si no se manipulan adecuadamente, se considera de vital importancia dar continuidad a la labor implementada del Plan de Manejo de Residuos Hospitalarios.</p>
 <p>El programa Nacional para la Gestión Integral de Residuos Hospitalarios Reglamentado por el Decreto 2676 de 2000, establece responsabilidades compartidas para la gestión integral de los residuos hospitalarios: al sector de la salud y generador de residuos similares en cuanto a la planificación de la gestión interna, a las empresas de servicio público especial en relación con la planificación de la gestión externa y a las autoridades ambientales y sanitarias, las cuales deben desarrollar un trabajo articulado y armónico en lo que se refiere a la evaluación, seguimiento y monitoreo de las obligaciones establecidas al sector regulado.</p>
 <p>La principal razón por la que se promueve un adecuado manejo y disposición de los residuos es cuidar la salud humana y el medio ambiente, pues el bienestar produce desarrollo, permitiendo el normal funcionamiento de los seres vivos, generaciones actuales y futuras.</p>
@@ -380,9 +485,9 @@ const thebe_selector_output = ".output, .cell_output"
 <li><p>Disminuir los factores de riesgo biológicos mediante la aplicación de normas de bioseguridad en el manejo de residuos.</p></li>
 <li><p>Evitar la contaminación del medio ambiente, a través de una adecuada clasificación, manejo, tratamiento y disposición final de los residuos.</p></li>
 </ol>
-</div>
-<div class="section" id="tipos-de-residuos">
-<h3><strong>Tipos de Residuos</strong><a class="headerlink" href="#tipos-de-residuos" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="tipos-de-residuos">
+<h3><strong>Tipos de Residuos</strong><a class="headerlink" href="#tipos-de-residuos" title="Permalink to this headline">#</a></h3>
 <ul class="simple">
 <li><p><strong>Resuduos no Peligrosos</strong> Es de aclarar que cualquier residuo hospitalario no peligroso sobre el que se presuma él haber estado en contacto con residuos peligrosos será tratado como tal.</p></li>
 <li><p><strong>Biodegradables</strong> Son aquellos restos químicos o naturales que se descomponen fácilmente en el ambiente. Tales pueden ser restos que se encuentran los vegetales, residuos alimenticios no infectados, papel higiénico, papeles no aptos para reciclaje, jabones y detergentes biodegradables, madera y otros residuos que puedan ser transformados fácilmente en materia orgánica.</p></li>
@@ -394,9 +499,9 @@ const thebe_selector_output = ".output, .cell_output"
 <li><p><strong>Biosanitarios</strong> Son todos aquellos elementos o instrumentos utilizados durante la ejecución de los procedimientos asistenciales que tienen contacto con materia orgánica, sangre o fluidos corporales del paciente humano tales como: gasas, apósitos, aplacadores, algodones, drenes, vendajes, mechas, guantes, bolsas para transfusiones sanguíneas, catéteres, sondas, material de laboratorio como tubos capilares y de ensayo, medios de cultivo, láminas porta objetos y cubre objetos, laminillas, sistemas cerrados y sellados de drenajes, ropas desechables, toallas higiénicas, pañales o cualquier otro elemento desechable.</p></li>
 <li><p><strong>Cortopunzantes</strong> Son aquellos que por sus características punzantes o cortantes pueden dar origen a un accidente percutáneo infeccioso. Dentro de éstos podemos encontrar: limas, cuchillas, agujas, láminas de bisturí o vidrio, y cualquier otro elemento que por sus características cortopunzantes pueda lesionar y ocasionar un riesgo infeccioso.</p></li>
 </ul>
-</div>
-<div class="section" id="diagnostico-ambiental-y-sanitario">
-<h3><strong>Diagnostico Ambiental y Sanitario</strong><a class="headerlink" href="#diagnostico-ambiental-y-sanitario" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="diagnostico-ambiental-y-sanitario">
+<h3><strong>Diagnostico Ambiental y Sanitario</strong><a class="headerlink" href="#diagnostico-ambiental-y-sanitario" title="Permalink to this headline">#</a></h3>
 <p>El consultorio cuenta con dos áreas de almacenamiento de residuos de las cuales una maneja residuos de alto riesgo y la otra de almacenamiento de residuos de tipo no peligroso biodegradable y no peligroso reciclable.</p>
 <table class="colwidths-auto table">
 <thead>
@@ -552,9 +657,9 @@ Estos residuos se establecen en las áreas y/o dependencias que generan residuos
 </tbody>
 </table>
 <p><em><strong>Tabla 04</strong></em>. Tipo de residuos hospitalarios generados.</p>
-</div>
-<div class="section" id="tipo-de-residuos-hospitalarios-generados">
-<h3>Tipo De Residuos Hospitalarios Generados<a class="headerlink" href="#tipo-de-residuos-hospitalarios-generados" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="tipo-de-residuos-hospitalarios-generados">
+<h3>Tipo De Residuos Hospitalarios Generados<a class="headerlink" href="#tipo-de-residuos-hospitalarios-generados" title="Permalink to this headline">#</a></h3>
 <ul class="simple">
 <li><p><strong>Residuos No Peligrosos</strong></p></li>
 </ul>
@@ -623,9 +728,9 @@ Infecciosos o De Riesgo Biológico</p></li>
  <img src="https://i.ibb.co/stryRrq/Recurso-1.png" alt="Recurso-1" border="0" alt="fotografia" height="100%" width="100%">
 </center>
 <p><strong>Figura 06</strong>. Movimiento interno de residuos ordinarios e inertes, la ruta para almacenamiento se realiza por la representante legal, los días martes, jueves y sábado en dirección a almacenamiento de residuos no peligrosos a las 9:00 am antes de dar inicio a consulta y es puesta a disposición de la empresa pública de recolección de basuras de Bogotá los días lunes, miércoles y viernes siguiendo la ruta de salida y a las 6:00am. El cuarto de almacenamiento es aseado una vez cada dos semanas con una solución de hipoclorito de sodio y elementos de limpieza desechables. Movimiento interno de residuos biosanitarios, la ruta para almacenamiento se realiza por la representante legal; debido a que el total de residuos biosanitarios no sobrepasan los 5kg/mes estos se disponen en dirección a almacenamiento de residuos peligrosos dos veces a la semana a las 9:00 am antes de dar inicio a consulta y es puesta a disposición de la empresa <strong>EcoResiduos Nacionales</strong> una vez cada 20 días los cuales realizan la desactivación final de estos residuos.  El cuarto de almacenamiento es aseado cada 20 días o cada vez que se desocupa con una solución de hipoclorito de sodio y elementos de limpieza desechables.</p>
-</div>
-<div class="section" id="desactivacion-de-residuos-hospitalarios-y-similares">
-<h3><strong>Desactivación de Residuos Hospitalarios y Similares</strong><a class="headerlink" href="#desactivacion-de-residuos-hospitalarios-y-similares" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="desactivacion-de-residuos-hospitalarios-y-similares">
+<h3><strong>Desactivación de Residuos Hospitalarios y Similares</strong><a class="headerlink" href="#desactivacion-de-residuos-hospitalarios-y-similares" title="Permalink to this headline">#</a></h3>
 <p>Los residuos infecciosos biosanitarios, cortopunzantes serán llevados a este fin por la empresa contratada EcoResiduos Nacionales.</p>
 <p><strong>Desactivación Química</strong></p>
 <p>Los residuos cortopunzantes producidos por el consultorio como las agujas se introducirán en el recipiente sin refundar, las fundas o caperuzas de protección se arrojarán en el recipiente con bolsa Negra o siempre y cuando no se encuentren contaminadas de sangre u otro fluido corporal.
@@ -657,9 +762,9 @@ Se debe atender al personal que presente contaminación con riesgo biológico, r
 En caso de incendio se debe activar el sistema de alarma estipulado en el plan de emergencias, Avisar a la línea 123, aislar el área donde se encuentren los residuos hospitalarios
 Cuando las empresas de servicio especial y ordinario interrumpan el servicio, no se sacarán las bolsas fuera del almacenamiento central
 En el caso de suspensión de actividades se debe dar aviso a las empresas de servicios especiales de residuos hospitalarios sobre la suspensión del servicio; se debe retirar todos los elementos de las áreas asistenciales, de los predios y servicios de protección y se debe dar aviso cuando nuevamente se restablezcan las actividades y servicios.</p>
-</div>
-<div class="section" id="gestion-interna-reportes-y-vigilancia-ambiental-sanitaria">
-<h3><strong>Gestión Interna, Reportes Y Vigilancia Ambiental Sanitaria</strong><a class="headerlink" href="#gestion-interna-reportes-y-vigilancia-ambiental-sanitaria" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="gestion-interna-reportes-y-vigilancia-ambiental-sanitaria">
+<h3><strong>Gestión Interna, Reportes Y Vigilancia Ambiental Sanitaria</strong><a class="headerlink" href="#gestion-interna-reportes-y-vigilancia-ambiental-sanitaria" title="Permalink to this headline">#</a></h3>
 <p><strong>Proceso gestiòn de Bienes y Servicios</strong></p>
 <p><em>Formato De Lista de Chequeo de Verificaciòn Interna Para Residuos Hospitalarios y Similares</em></p>
 <p><strong>Residuos Hospitalarios y Similares</strong>
@@ -1074,9 +1179,9 @@ Dra. Paola Sosa</p>
 </tr>
 </tbody>
 </table>
-</div>
-</div>
-</div>
+</section>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -1090,7 +1195,7 @@ Dra. Paola Sosa</p>
             mode: "python"
         },
         kernelOptions: {
-            kernelName: "python3",
+            name: "python3",
             path: "./."
         },
         predefinedOutput: true
@@ -1100,9 +1205,11 @@ Dra. Paola Sosa</p>
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="bioseguridad.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -1118,24 +1225,28 @@ Dra. Paola Sosa</p>
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Data Source<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Data Source<br/>
-    
-        &copy; Copyright 2021.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>

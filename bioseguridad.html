@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Manual de bioseguridad &#8212; System Manager V2.0</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -63,7 +62,21 @@ const thebe_selector_output = ".output, .cell_output"
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -72,9 +85,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
       
@@ -87,14 +101,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
-        <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="intro.html">
-   System Manager V2.0
-  </a>
- </li>
-</ul>
-<ul class="current nav bd-sidenav">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="intro.html">
+                    System Manager V2.0
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
  <li class="toctree-l1 current active has-children">
   <a class="reference internal" href="habilitacion.html">
    Habilitación
@@ -152,90 +167,180 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
-</div>
-
-
-          
-
-
-          
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
-    
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
             
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
-        
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/bioseguridad.md"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
-    </div>
-</div>
-
-            <!-- Source interaction buttons -->
-
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
-        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
-    <div class="dropdown-buttons sourcebuttons">
-        <a class="repository-button"
-            href="https://clinicapaola.github.io/"><button type="button" class="btn btn-secondary topbarbtn"
-                data-toggle="tooltip" data-placement="left" title="Source repository"><i
-                    class="fab fa-github"></i>repository</button></a>
-        <a class="issues-button"
-            href="https://clinicapaola.github.io//issues/new?title=Issue%20on%20page%20%2Fbioseguridad.html&body=Your%20issue%20content%20here."><button
-                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
-                title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
-        
-    </div>
-</div>
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
             </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-repository-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Source repositories">
+      <i class="fab fa-github"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="https://clinicapaola.github.io/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Source repository"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="headerbtn__text-container">repository</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="https://clinicapaola.github.io//issues/new?title=Issue%20on%20page%20%2Fbioseguridad.html&body=Your%20issue%20content%20here."
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Open an issue"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="headerbtn__text-container">open issue</span>
+</a>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/bioseguridad.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#introduccion">
    <strong>
@@ -296,12 +401,11 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>Manual de bioseguridad</h1>
@@ -378,14 +482,15 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="section" id="manual-de-bioseguridad">
-<h1>Manual de bioseguridad<a class="headerlink" href="#manual-de-bioseguridad" title="Permalink to this headline">¶</a></h1>
+  <section id="manual-de-bioseguridad">
+<h1>Manual de bioseguridad<a class="headerlink" href="#manual-de-bioseguridad" title="Permalink to this headline">#</a></h1>
 <p><strong>Dra. Paola Sosa</strong></p>
-<div class="section" id="introduccion">
-<h2><strong>Introducción</strong><a class="headerlink" href="#introduccion" title="Permalink to this headline">¶</a></h2>
+<section id="introduccion">
+<h2><strong>Introducción</strong><a class="headerlink" href="#introduccion" title="Permalink to this headline">#</a></h2>
 <p>El manual de bioseguridad del servicio de salud de <em>Odontología Personalizada</em>, es el documento dónde se encuentran escritas las políticas que la institución ha diseñado para realizar el control de los riesgos, especialmente biológicos, presentes en la prestación de los servicios de salud. Este manual contiene una recopilación ordenada y práctica de las normas y procedimientos que tienen por objeto, disminuir, minimizar o eliminar los factores de riesgo biológico que puedan llegar a afectar la salud, la vida de las personas o afectar el medio o ambiente.</p>
 <p><strong>Objetivo General</strong></p>
 <blockquote>
@@ -397,9 +502,9 @@ const thebe_selector_output = ".output, .cell_output"
 <li><p>Evaluar los procesos y procedimientos en Bioseguridad consignados en este manual, con el fin de que se conozca, se aplique y se constituya una práctica permanente y en una herramienta de prevención.</p></li>
 <li><p>Crear el habito de seguridad, responsabilidad, conocimientos y conciencia a través de la prevención, el autocuidado y la autogestión de sus procesos, lo que conlleva a un cambio gradual en actitudes, comportamientos y prácticas en Bioseguridad, garantizando la integridad física, mental, psicosocial de usuarios del servicio de Odontología General.</p></li>
 </ol>
-</div>
-<div class="section" id="normas-universales-de-bioseguridad">
-<h2><strong>Normas Universales de Bioseguridad</strong><a class="headerlink" href="#normas-universales-de-bioseguridad" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="normas-universales-de-bioseguridad">
+<h2><strong>Normas Universales de Bioseguridad</strong><a class="headerlink" href="#normas-universales-de-bioseguridad" title="Permalink to this headline">#</a></h2>
 <p>Las normas universales buscan <strong>complemetar</strong> las recomendaciones de rutina para el control de infecciones, como el lavado de manos y el uso de guantes para evitar la contaminación de las manos por microbios. La implementación de normas universales <strong>no</strong> elimina la necesidad de tomar las medidas de precaución específicas para algunas enfermedades.</p>
 <p><strong>Normas Universales</strong></p>
 <ul class="simple">
@@ -421,9 +526,9 @@ const thebe_selector_output = ".output, .cell_output"
 <li><p>Manipule, transporte y envíe las muestras disponiéndolas en recipientes seguros, con tapa y rotuladas</p></li>
 <li><p>Restrinja el ingreso a las áreas de alto riesgo</p></li>
 </ul>
-</div>
-<div class="section" id="uso-de-elementos-de-proteccion-personal">
-<h2><strong>Uso de elementos de protección Personal</strong><a class="headerlink" href="#uso-de-elementos-de-proteccion-personal" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="uso-de-elementos-de-proteccion-personal">
+<h2><strong>Uso de elementos de protección Personal</strong><a class="headerlink" href="#uso-de-elementos-de-proteccion-personal" title="Permalink to this headline">#</a></h2>
 <p><strong>Material no crítico</strong></p>
 <p>Esta clasificación corresponde a instrumentos o dispositivos que pueden tener contacto frecuente con los aerosoles generados durante el tratamiento dental, tocados por el paciente o por las manos contaminadas del clínico o auxiliar dental durante el tratamiento.</p>
 <p>La piel sana actúa como una barrera efectiva para la mayoría de los microorganismos y por lo tanto el nivel de eliminación de microorganismos requerido puede ser mucho menor.</p>
@@ -441,9 +546,9 @@ const thebe_selector_output = ".output, .cell_output"
 <li><p><strong>Comprensor:</strong> El compresor deberá ser purgados, es decir, se le deberá eliminar el agua que se condensa en el interior del recipiente que contiene el aire, ya que esa agua se puede oxidar y contaminar con facilidad con el siguiente riego para el paciente cuando se le aplica la turbina o el aire de la jeringa triple.</p></li>
 <li><p><strong>Sillón:</strong> Desinfecte el sillón dental con un paño embebido de hipoclorito de sodio 0.5% o alcohol 70° antes y después de la atención diaria. Si un paciente presentará lesiones cutáneas o capilares exudativas o micóticas, se recomienda desinfectar el sillón dental inmediatamente después que se haya retirado.</p></li>
 </ul>
-</div>
-<div class="section" id="metodos-segun-caracteristicas-y-composicion-de-materiales">
-<h2><strong>Métodos según características y composición de Materiales</strong><a class="headerlink" href="#metodos-segun-caracteristicas-y-composicion-de-materiales" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="metodos-segun-caracteristicas-y-composicion-de-materiales">
+<h2><strong>Métodos según características y composición de Materiales</strong><a class="headerlink" href="#metodos-segun-caracteristicas-y-composicion-de-materiales" title="Permalink to this headline">#</a></h2>
 <p>Los diferentes elementos que se utilizan en la odontología están fabricados de diversos materiales, cada uno de ellos con características propias, las cuales deben ser consideradas para seleccionar el tipo de método que se debe emplear en la eliminación de microorganismos.</p>
 <p><strong>Acero</strong></p>
 <p>Los artículos de acero inoxidable son durables si se mantiene de acuerdo a indicaciones del fabricante. La calidad del agua puede dañarlos ya sea por exceso de cloruros o de sustancias alcalinas o ácidas. También puede dañarse por el tipo de marcado si éste debilita su estructura original. Para este tipo de instrumentales se recomienda la esterilización con vapor de agua (autoclave).</p>
@@ -456,9 +561,9 @@ const thebe_selector_output = ".output, .cell_output"
 <p><strong>Manejo del Ambiente Odontológico</strong></p>
 <p>En las áreas de atención profesional no se deben realizar otras actividades que no sean la señalada. En estos espacios no se guardará alimentos o utensilios de comida, ni tampoco se tendrán plantas o materiales de limpieza. La ventilación de todos los lugares de trabajó deberá ser muy intensa a fin de evitar la polución causada por aerosoles generados durante las preparaciones dentarias o debido a las emanaciones del sistema de desagüe.</p>
 </div>
-</div>
-<div class="section" id="proteccion-del-ambiente-de-trabajo">
-<h2><strong>Protección del Ambiente de Trabajo</strong><a class="headerlink" href="#proteccion-del-ambiente-de-trabajo" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="proteccion-del-ambiente-de-trabajo">
+<h2><strong>Protección del Ambiente de Trabajo</strong><a class="headerlink" href="#proteccion-del-ambiente-de-trabajo" title="Permalink to this headline">#</a></h2>
 <p>Los medios más frecuentes a través de los cuales se producen infecciones cruzadas, son:</p>
 <p>A través de aerosoles y otras sustancias expelidas por las turbinas, micromotores, jeringas triples y aparatos de profilaxis, los que pueden diseminar grandes cantidades de microorganismos de la boca del paciente hacia todos los ambientes del consultorio.</p>
 <p>Contacto directo de las manos del profesional o su asistente con los equipos, instrumentos, materiales contaminados con saliva o sangre del paciente.</p>
@@ -470,9 +575,9 @@ const thebe_selector_output = ".output, .cell_output"
 <li><p>Reducir la formación de aerosoles y salpicaduras de saliva y sangre utilizando solo la cantidad necesaria de agua en la pieza de mano de alta velocidad y en los destartarizadores ultrasónicos.</p></li>
 <li><p>Evitar la contaminación de pisos y módulos con la caída de saliva, sangre, materiales contaminados como algodones y restos de impresión.</p></li>
 </ol>
-</div>
-<div class="section" id="limpieza-y-desinfeccion-del-ambiente">
-<h2><strong>Limpieza y desinfección del Ambiente</strong><a class="headerlink" href="#limpieza-y-desinfeccion-del-ambiente" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="limpieza-y-desinfeccion-del-ambiente">
+<h2><strong>Limpieza y desinfección del Ambiente</strong><a class="headerlink" href="#limpieza-y-desinfeccion-del-ambiente" title="Permalink to this headline">#</a></h2>
 <p>Estas normas tienen por objeto disminuir la contaminación ambiental y eliminar la suciedad visible. En los establecimientos asistenciales hay gérmenes patógenos presentes en los elementos o equipos sucios o contaminados cercanos al paciente que se pueden comportar como reservorios o fuentes de infección. La limpieza de los ambientes debe ser realizada protegido con un gorro, delantal impermeable, mascarilla, guantes de goma hasta la mitad del antebrazo y anteojos protectores. Asimismo, se debe estar vacunado contra el tétano y la Hepatitis B. Para la limpieza de los ambientes se debe tener las siguientes consideraciones</p>
 <ol class="simple">
 <li><p>Siempre se efectuará la limpieza ambiental desde el área más limpia a la más sucia.</p></li>
@@ -582,9 +687,9 @@ const thebe_selector_output = ".output, .cell_output"
 <li><p>Se debe procurar que las llaves de agua del lavatorio del consultorio sean de palanca, accionadas con el pie o fotosensibles.</p></li>
 </ol>
 </div>
-</div>
-<div class="section" id="desinfectantes-quimicos">
-<h2><strong>Desinfectantes Químicos</strong><a class="headerlink" href="#desinfectantes-quimicos" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="desinfectantes-quimicos">
+<h2><strong>Desinfectantes Químicos</strong><a class="headerlink" href="#desinfectantes-quimicos" title="Permalink to this headline">#</a></h2>
 <p><strong>Glutarhaldeido al 2%</strong> Para obtener 1 litro a una concentración de 1:16, existen 2 formas:</p>
 <ol class="simple">
 <li><p>Medir una parte de solución y agregar 15 partes de agua destilada.</p></li>
@@ -623,17 +728,17 @@ const thebe_selector_output = ".output, .cell_output"
 <ol class="simple">
 <li><p>El alcohol de 95º, no tiene propiedades germicidas, por lo tanto nunca usar alcohol de 95º sin diluir. Necesita la presencia de agua para actuar como microbicida.</p></li>
 </ol>
-<div class="section" id="referencias">
-<h3><strong>Referencias</strong><a class="headerlink" href="#referencias" title="Permalink to this headline">¶</a></h3>
+<section id="referencias">
+<h3><strong>Referencias</strong><a class="headerlink" href="#referencias" title="Permalink to this headline">#</a></h3>
 <ol class="simple">
 <li><p>Jaime Otero M. y Jaime Ignacio Otero. “Manual de Bioseguridad en  dontología”. Lima – Perú. 2002.</p></li>
 <li><p>Ministerio de salud. “Norma Técnica de Manejo de Residuos Sólidos Hospitalarios”. Resolución Ministerial N° 217-2004 SA. MINSA.Perú – 2014.</p></li>
 <li><p>Ministerio de salud. “Norma Técnica de Prevención y Control de Infecciones Intrahospitalarias”. Resolución Ministerial N° 753-2004/MINSA. Perú – 2014.</p></li>
 <li><p>Ministerio de salud. “Norma Técnica de Vigilancia Epidemiológica de las Infecciones Intrahospitalarias”. Resolución Ministerial N° 179-2005/MIN. Perú – 2015.</p></li>
 </ol>
-</div>
-</div>
-</div>
+</section>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -647,7 +752,7 @@ const thebe_selector_output = ".output, .cell_output"
             mode: "python"
         },
         kernelOptions: {
-            kernelName: "python3",
+            name: "python3",
             path: "./."
         },
         predefinedOutput: true
@@ -657,9 +762,11 @@ const thebe_selector_output = ".output, .cell_output"
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="guia.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -675,24 +782,28 @@ const thebe_selector_output = ".output, .cell_output"
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Data Source<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Data Source<br/>
-    
-        &copy; Copyright 2021.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>
