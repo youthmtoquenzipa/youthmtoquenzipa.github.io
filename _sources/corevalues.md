@@ -3,7 +3,7 @@
 {bdg-success}`Core Values`
 
 <center>
-    <img src="https://i.ibb.co/1md775g/4.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
+    <img src="https://i.ibb.co/YpsHsdg/4.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
 </center>
     
 ---      
