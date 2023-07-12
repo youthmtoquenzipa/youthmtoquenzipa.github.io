@@ -3,11 +3,10 @@
 {bdg-primary}`Building OKRs`
 
 <center>
-    <img src="https://i.ibb.co/2gTYWL8/3.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
+    <img src="https://i.ibb.co/g9wcR68/3.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
 </center>
     
 ---      
-
 
 Marca la diferencia y **crea un impacto duradero en nuestra comunidad**. ¡Únete a esta emocionante travesía hacia el cambio positivo! Los OKRs estratégicos serán nuestra *brújula infalible*, guiándonos hacia nuestros objetivos y fortaleciendo la cultura organizacional con un propósito claro.
 

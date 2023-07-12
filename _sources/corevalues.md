@@ -3,10 +3,11 @@
 {bdg-success}`Core Values`
 
 <center>
-    <img src="https://i.ibb.co/qx1CwB7/4.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
+    <img src="https://i.ibb.co/1md775g/4.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
 </center>
     
 ---      
+
 
 En esta comunidad de jóvenes en Tocancipá, se identifican una serie de virtudes clave que desempeñan un papel central en el desarrollo personal y colectivo. Entendamos que los valores son los fundamentos conceptuales y los pilares de una cultura organizacional o una comunidad, mientras que las virtudes son las manifestaciones prácticas y personales de esos valores.
 

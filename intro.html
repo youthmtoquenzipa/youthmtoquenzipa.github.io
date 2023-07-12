@@ -90,6 +90,11 @@ const thebe_selector_output = ".output, .cell_output"
         <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="_static/logo.png" class="logo" alt="logo">
       
       
       <h1 class="site-logo" id="site-title">Youth Ministry Toquenzipá</h1>
@@ -111,7 +116,9 @@ const thebe_selector_output = ".output, .cell_output"
         <ul class="nav bd-sidenav">
  <li class="toctree-l1 has-children">
   <a class="reference internal" href="sectionone.html">
-   Youth Ministry Toquenzipá
+   <strong>
+    Youth Ministry Toquenzipá
+   </strong>
   </a>
   <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
   <label for="toctree-checkbox-1">
@@ -373,9 +380,49 @@ title="Print to PDF"
 <h1><strong>Home</strong><a class="headerlink" href="#home" title="Permalink to this headline">#</a></h1>
 <p><span class="sd-sphinx-override sd-badge sd-bg-success sd-bg-text-success">Youth Ministry</span></p>
 <p><em>¡Únete a la Revolución Juvenil de Fe!</em></p>
-<center>
-    <img src="https://i.ibb.co/gSZcGD2/1.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
-</center>
+<style>
+  #myCarousel .carousel-inner .carousel-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+</style>
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicadores -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+  <!-- Slides -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://i.ibb.co/52YsNBn/1.jpg" alt="Imagen 1" class="d-block">
+    </div>
+    <div class="carousel-item">
+      <img src="https://i.ibb.co/YpsHsdg/4.jpg" alt="Imagen 2" class="d-block">
+    </div>
+    <div class="carousel-item">
+      <img src="https://i.ibb.co/XbgWZn3/8.jpg" alt="Imagen 3" class="d-block">
+    </div>
+  </div>
+  <!-- Controles -->
+  <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Anterior</span>
+  </a>
+  <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Siguiente</span>
+  </a>
+</div>
+<script>
+  require(['jquery', 'bootstrap'], function($) {
+    $(document).ready(function() {
+      $('#myCarousel').carousel();
+    });
+  });
+</script>
 <hr class="docutils" />
 <div class="admonition-papa-francisco admonition">
 <p class="admonition-title">Papa Francisco</p>
@@ -489,7 +536,7 @@ Trascender las barreras del núcleo familiar, promoviendo el diálogo y caminand
     <a class='right-next' id="next-link" href="sectionone.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Youth Ministry Toquenzipá</p>
+        <p class="prev-next-title"><strong>Youth Ministry Toquenzipá</strong></p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>
@@ -502,7 +549,7 @@ Trascender las barreras del núcleo familiar, promoviendo el diálogo y caminand
   
     By Living Stones<br/>
   
-      &copy; Copyright 2022.<br/>
+      &copy; Copyright 2023 Parroquia Nuestra Señora del Tránsito - Tocancipá.<br/>
 </p>
         </footer>
     </div>
