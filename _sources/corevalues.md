@@ -1,11 +1,20 @@
-# **Core Values**
+# **Misión, Visión & Virtudes**
+
+{bdg-success}`Core Values`
+
+<center>
+    <img src="https://i.ibb.co/qx1CwB7/4.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
+</center>
+    
+---      
+
+En esta comunidad de jóvenes en Tocancipá, se identifican una serie de virtudes clave que desempeñan un papel central en el desarrollo personal y colectivo. Entendamos que los valores son los fundamentos conceptuales y los pilares de una cultura organizacional o una comunidad, mientras que las virtudes son las manifestaciones prácticas y personales de esos valores.
+
+En cuanto a la misión y visión, son pilares fundamentales en la comunidad de jóvenes, ya que proporcionan dirección, propósito y aspiraciones a largo plazo. Al estar alineadas con los valores y virtudes identificados, estas declaraciones guían las acciones de los jóvenes y promueven un cambio positivo en la comunidad, contribuyendo a la construcción de una sociedad más inclusiva, solidaria y esperanzadora.
+
 
 ```{admonition} Valores/Virtudes 👆
 :class: tip, dropdown
-
-
-🔍 **Valores vs Virtudes**: Los valores son los fundamentos conceptuales y los pilares de una cultura organizacional o una comunidad, mientras que las virtudes son las manifestaciones prácticas y personales de esos valores.  
-
 
 - 💡 **Conexión Auténtica**:  Fomentamos una comunicación abierta, respetuosa y efectiva entre los jóvenes y con la comunidad en general. Valoramos la escucha activa y la expresión clara de ideas y sentimientos.
 

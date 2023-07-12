@@ -1,17 +1,21 @@
 # **Home** 
 
+{bdg-success}`Youth Ministry`
+
 *¡Únete a la Revolución Juvenil de Fe!*  
 
-{bdg-primary}`Youth Ministry`
+<center>
+    <img src="https://i.ibb.co/gSZcGD2/1.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
+</center>
+    
+---      
+
 
 ```{admonition} Papa Francisco
 No subestimen el poder de su generación para transformar realidades y ser agentes de justicia y solidaridad.
 ```
 
-```{admonition} Papa Francisco
-:class: tip, dropdown
 Jóvenes, no sean espectadores, vayan en busca de grandes sueños
-```
 
 Sabemos que como jóven universitari@ o profesional, tienes un **espíritu inquieto** y un deseo profundo de marcar la diferencia en el mundo. **Te invitamos a ser parte de la Revolución Juvenil de Fe**, donde exploraremos la Doctrina Social de la Iglesia como guía para transformar la sociedad.
 
@@ -23,7 +27,7 @@ Queremos desafiarte a ser parte activa de la **transformación social**. A trav�
 
 ## **Sketch Construyendo Nuestra Identidad**   
 
-{bdg-primary}`visión, mision y valores/virtudes`
+{bdg-success}`visión, mision y valores/virtudes`
 
 En nuestra búsqueda por crecer y evolucionar como comunidad de jóvenes profesionales comprometidos, reconocemos la importancia de revisar y actualizar nuestra misión, visión y valores. Como profesionales, tenemos la responsabilidad de asegurarnos de que estos fundamentos reflejen nuestra identidad actual, nuestras aspiraciones y los desafíos que enfrentamos en Tocancipá. {bdg-warning}`Click to Show` Haz clic en la caja para ver el contenido.
 
