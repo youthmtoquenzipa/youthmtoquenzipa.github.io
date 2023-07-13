@@ -151,9 +151,8 @@ Ahora que comprendes la importancia de **construir nuestra identidad**, ha llega
 - ¿Cómo podemos asegurarnos de que estas definiciones se integren de manera efectiva en nuestras actividades diarias?
 - ¿Cómo crees que mediremos y evaluaremos el **éxito de nuestra implementación de la misión, visión y virtudes a largo plazo**?
 
-## Reporte de Looker embebido
 
-<iframe src="https://lookerstudio.google.com/reporting/284af396-c974-4a52-95d4-4211325369c3" frameborder="0" style="width: 100%; height: 600px;"></iframe>
+### **¿Te gustaría tener una idea de cómo vamos en cuanto a opiniones?** **[Haz clic aquí 🌍](https://lookerstudio.google.com/reporting/284af396-c974-4a52-95d4-4211325369c3)**
 
 
 ````{card} **¿Estás listo para darnos tu opinión crítica?**
