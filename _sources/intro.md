@@ -151,10 +151,6 @@ Ahora que comprendes la importancia de **construir nuestra identidad**, ha llega
 - ¿Cómo podemos asegurarnos de que estas definiciones se integren de manera efectiva en nuestras actividades diarias?
 - ¿Cómo crees que mediremos y evaluaremos el **éxito de nuestra implementación de la misión, visión y virtudes a largo plazo**?
 
-
-### **¿Te gustaría tener una idea de cómo vamos en cuanto a opiniones?** **[Haz clic aquí 🌍](https://lookerstudio.google.com/reporting/284af396-c974-4a52-95d4-4211325369c3)**
-
-
 ````{card} **¿Estás listo para darnos tu opinión crítica?**
 
 > ¡Desata tu creatividad 🧠🤯💭 y exprésate desde tu punto de vista!
@@ -162,4 +158,6 @@ Ahora que comprendes la importancia de **construir nuestra identidad**, ha llega
 **[¡Haz clic aquí y revisemos juntos cada definición!](https://docs.google.com/forms/d/e/1FAIpQLSePEtjKj1WEBNjQFZMqZjW-NzOJ7KWFs0rcJtKf_93EBbrh0Q/viewform?usp=sf_link)**
 +++
 *Nunca te arrepentirás de ser parte de este gran equipo.*
++++
+**Así vamos en opiniones?** **[Haz clic aquí 🌍](https://lookerstudio.google.com/reporting/284af396-c974-4a52-95d4-4211325369c3)**
 ````
