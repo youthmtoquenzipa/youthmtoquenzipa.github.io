@@ -5,9 +5,7 @@
 <!-- Final del widget de globo de Calendly -->
 
 
-# **Propuesta de OKRs Estratégicos** 
 
-{bdg-primary}`Building OKRs`
 
 <style>
   #myCarousel .carousel-inner .carousel-item img {
@@ -15,7 +13,59 @@
     height: auto;
     border-radius: 10px;
   }
+
+  @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+ 
+
+    body {
+    margin: 0;
+    padding: 0;
+    font-family: "Courier Prime", monospace;
+    background-color: #fdfdfe;
+  }
+
+    h5 {
+    font-size: 30px;
+    font-weight: bold; 
+    color: #553c9a;
+    border-right: 4px solid #000;
+    white-space: pre-line;
+    overflow: hidden;
+    margin: 0;
+    font-family: "Courier Prime", monospace;
+    }
+
+  h4 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #553c9a;
+    border-right: 4px solid #000;
+    white-space: pre-line;
+    overflow: hidden;
+    margin: 0;
+    font-family: "Courier Prime", monospace;
+    }
+
+  h1 {
+    font-size: 30px;
+    font-weight: bold; 
+    color: #553c9a;
+    border-right: 4px solid #000;
+    white-space: pre-line;
+    overflow: hidden;
+    margin: 0;
+    font-family: "Courier Prime", monospace;
+    }
+
+  @keyframes cursor {
+    0%, 100% { border-color: transparent; }
+    50% { border-color: #000; }
+  }
 </style>
+
+# **Propuesta de OKRs Estratégicos** 
+
+{bdg-primary}`Building OKRs`
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicadores -->
@@ -57,27 +107,15 @@
   });
 </script>
     
----      
+---   
+
+<h4 id="typing-effect-1"></h4>  
 
 Marca la diferencia y **crea un impacto duradero en nuestra comunidad**. ¡Únete a esta emocionante travesía hacia el cambio positivo! Los OKRs estratégicos serán nuestra *brújula infalible*, guiándonos hacia nuestros objetivos y fortaleciendo la cultura organizacional con un propósito claro.
 
 Cada uno de nuestros Objetivos y Resultados Clave representa una valiosa oportunidad para transformar nuestra trayectoria profesional y contribuir al bienestar común. Como responsables de estos resultados clave, es fundamental medir y cuantificar nuestro progreso, asegurándonos de que nuestras acciones estén alineadas con los valores que abrazamos.
 
 Te desafío a sumergirte en esta apasionante propuesta de OKRs estratégicos. *Al aceptar este desafío, daremos un giro radical a nuestras carreras y a nuestra organización en beneficio de todos.* ¡No pierdas la oportunidad de formar parte de esta increíble transformación!
-
-## **Propuesta OKRs**
-
-<iframe id="presentation-frame" src="https://docs.google.com/presentation/d/e/2PACX-1vSG2JJOUXOnzKstwyqDMx2MBjsQaVTtPQOmTbabjpnxAIzVyb0E9j7cPWqVj4OJxrOKmqcxqOsDWuTC/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="width: 100%; height: 569px; border: none;border-radius: 10px;"></iframe>
-<script>
-  window.addEventListener('resize', adjustIframeWidth);
-
-  function adjustIframeWidth() {
-    var frame = document.getElementById('presentation-frame');
-    frame.style.width = window.innerWidth + 'px';
-  }
-
-  adjustIframeWidth();
-</script>
 
 
 
@@ -145,10 +183,47 @@ Te desafío a sumergirte en esta apasionante propuesta de OKRs estratégicos. *A
 
 ```
 
-<!-- <iframe src="https://getbootstrap.com/docs/4.0/utilities/colors/" width="800" height="600"></iframe> -->
+
+<h4>Presentando OKRs: Convirtiendo Conceptos en Resultados Cuantificables</h4>
+
+
+<iframe id="presentation-frame" src="https://docs.google.com/presentation/d/e/2PACX-1vSG2JJOUXOnzKstwyqDMx2MBjsQaVTtPQOmTbabjpnxAIzVyb0E9j7cPWqVj4OJxrOKmqcxqOsDWuTC/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="width: 100%; height: 569px; border: none;border-radius: 10px;"></iframe>
+<script>
+  window.addEventListener('resize', adjustIframeWidth);
+
+  function adjustIframeWidth() {
+    var frame = document.getElementById('presentation-frame');
+    frame.style.width = window.innerWidth + 'px';
+  }
+
+  adjustIframeWidth();
+</script>
+
 
 ```{epigraph}
 Jóvenes, no sean espectadores, vayan en busca de grandes sueños
 
 -- Papa Francisco
 ```
+
+
+<script>
+  const texts = [
+    "Propuesta OKRs para Constructores de Propósito: Liderando con Metas y Resultados Clave"
+  ];
+
+  texts.forEach((text, index) => {
+    let indexCounter = 0;
+    const typingElement = document.getElementById(`typing-effect-${index + 1}`);
+
+    function typeText() {
+      if (indexCounter < text.length) {
+        typingElement.textContent += text.charAt(indexCounter);
+        indexCounter++;
+        setTimeout(typeText, 150);
+      }
+    }
+
+    typeText();
+  });
+</script>

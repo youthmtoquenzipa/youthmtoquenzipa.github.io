@@ -5,7 +5,58 @@
 <!-- Final del widget de globo de Calendly -->
 
 
-# **Propuestas Colectivo Juvenil** 
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+ 
+
+    body {
+    margin: 0;
+    padding: 0;
+    font-family: "Courier Prime", monospace;
+    background-color: #fdfdfe;
+  }
+
+    h5 {
+    font-size: 30px;
+    font-weight: bold; 
+    color: #553c9a;
+    border-right: 4px solid #000;
+    white-space: pre-line;
+    overflow: hidden;
+    margin: 0;
+    font-family: "Courier Prime", monospace;
+    }
+
+  h4 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #553c9a;
+    border-right: 4px solid #000;
+    white-space: pre-line;
+    overflow: hidden;
+    margin: 0;
+    font-family: "Courier Prime", monospace;
+    }
+
+  h1 {
+    font-size: 30px;
+    font-weight: bold; 
+    color: #553c9a;
+    border-right: 4px solid #000;
+    white-space: pre-line;
+    overflow: hidden;
+    margin: 0;
+    font-family: "Courier Prime", monospace;
+    }
+
+  @keyframes cursor {
+    0%, 100% { border-color: transparent; }
+    50% { border-color: #000; }
+  }
+</style>
+
+
+# **Propuestas Colectivo Juvenil**
 
 {bdg-primary}`Building Ideas`
 
@@ -59,30 +110,22 @@
     
 ---     
 
-## **¿Qué representa un colectivo juvenil en el contexto social?**
+<h4 id="typing-effect-1"></h4>
 
-*Un colectivo juvenil es un grupo organizado de jóvenes que busca fomentar la participación activa, el empoderamiento y el cambio social. Se caracteriza por su creatividad y atractivo para motivar la colaboración de jóvenes en proyectos y actividades con un enfoque político-social. Su estructura se desarrolla gradualmente, partiendo de proyectos de baja o mediana complejidad, en concordancia con la experiencia colectiva y el deseo de una participación más significativa.*
+Un colectivo juvenil es un grupo organizado de jóvenes que busca fomentar la participación activa, el empoderamiento y el cambio social. Se caracteriza por su creatividad y atractivo para motivar la colaboración de jóvenes en proyectos y actividades con un enfoque político-social. Su estructura se desarrolla gradualmente, partiendo de proyectos de baja o mediana complejidad, en concordancia con la experiencia colectiva y el deseo de una participación más significativa.
 
----
-
-## **7 Proyectos Transformadores para Nuestro Colectivo Juvenil**
+<h4>Propuestas Increíbles: Transformando Ideas en Realidad</h4>
 
 A continuación, te presentamos 7 emocionantes proyectos que podríamos llevar a cabo como colectivo juvenil. Sin embargo, estoy convencido de que estos proyectos pueden ir mucho más allá de la mera conceptualización en papel. Te invito a explorar estas ideas con una mente creativa y considerar si vale la pena invertir todo tu entusiasmo en convertirlas en realidad.
 
-<iframe id="presentation-frame" src="https://docs.google.com/presentation/d/e/2PACX-1vTEug2btwy5IwPxraDnqxtTJpFNuPLxW04jFvGN71-6toSselH2B_CRDKvpA-6O9FFuQsbJW6qmZecg/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="width: 100%; height: 569px; border: none;border-radius: 10px;"></iframe>
-<script>
-  window.addEventListener('resize', adjustIframeWidth);
 
-  function adjustIframeWidth() {
-    var frame = document.getElementById('presentation-frame');
-    frame.style.width = window.innerWidth + 'px';
-  }
-
-  adjustIframeWidth();
-</script>
+<center>
+    <img src="https://i.ibb.co/s2YFJdq/1-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
+</center>
 
 
-```{admonition} Jardinería Terapéutica
+
+```{admonition} **Jardinería Terapéutica**
 :class: note, dropdown
 {bdg-primary}`EcoMind Wellness`   
 
@@ -94,6 +137,12 @@ Es una innovadora iniciativa que busca transformar los espacios verdes públicos
 3. **Alianzas con Instituciones Educativas:** Nos asociaremos con escuelas y universidades para integrar la jardinería terapéutica en sus programas de bienestar estudiantil y ofrecer a los jóvenes una experiencia integral de cuidado de su salud mental.
 4. **Campañas de Concientización:** Realizaremos campañas de concientización en redes sociales y eventos comunitarios para promover la importancia de la salud mental de los jóvenes y destacar los beneficios de la jardinería terapéutica.
 ```
+
+<center>
+    <img src="https://i.ibb.co/9Y0D3cY/2-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
+</center>
+
+
 
 ```{admonition} Liderando el Futuro Juntos
 :class: note, dropdown
@@ -113,6 +162,10 @@ Es una innovadora plataforma colaborativa diseñada específicamente para jóven
 
 Se espera empoderar a los jóvenes líderes, brindándoles las herramientas y el apoyo necesarios para generar un impacto positivo en sus comunidades y convertirse en agentes de cambio para el desarrollo sostenible. La plataforma proporcionará un espacio virtual dinámico donde la creatividad y la innovación serán los motores que impulsen la transformación social, generando así un efecto multiplicador en el bienestar de la sociedad.
 ```
+
+<center>
+    <img src="https://i.ibb.co/Y23w1dG/3-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
+</center>
 
 ```{admonition} Un Llamado a Tejer Juntos
 :class: note, dropdown
@@ -138,3 +191,91 @@ Se espera empoderar a los jóvenes líderes, brindándoles las herramientas y el
     
     No solo reviviremos nuestras tradiciones, sino que también abrazaremos la innovación. Movilizaremos estratégicas campañas de marketing que convocarán a jóvenes talentos de Tocancipá a sumarse a este emocionante proyecto. Además, no se trata solo de crear, sino de compartir y regalar el arte a nuestros pares más jóvenes. Así, construiremos una comunidad cohesionada, donde el legado cultural se renueva y se transmite de forma apasionada a las generaciones venideras. Unidos en esta travesía creativa, tejamos un futuro donde el arte florezca y el alma de nuestra tierra perdure en el corazón de todos.
 ```
+
+<center>
+    <img src="https://i.ibb.co/MPPx8zB/4-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
+</center>
+
+```{admonition} Liderando el Futuro Juntos
+:class: note, dropdown
+{bdg-primary}`Youth Changemakers Hub`   
+
+
+
+```
+
+<center>
+    <img src="https://i.ibb.co/4sPRgQX/5-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
+</center>
+
+
+```{admonition} Liderando el Futuro Juntos
+:class: note, dropdown
+{bdg-primary}`Youth Changemakers Hub`   
+
+```
+
+<center>
+    <img src="https://i.ibb.co/82Kz9qN/6-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
+</center>
+
+```{admonition} Liderando el Futuro Juntos
+:class: note, dropdown
+{bdg-primary}`Youth Changemakers Hub`   
+
+
+
+```
+
+<center>
+    <img src="https://i.ibb.co/c8fHC78/7-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
+</center>
+
+```{admonition} Liderando el Futuro Juntos
+:class: note, dropdown
+{bdg-primary}`Youth Changemakers Hub`   
+
+
+
+```
+
+<center>
+    <img src="https://i.ibb.co/hf2Jwdf/8-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
+</center>
+
+
+<h4>Presentación de Propuestas Desarrolladas con Inteligencia Artificial: Innovación Impulsada por la Tecnología Avanzada</h4>
+
+<iframe id="presentation-frame" src="https://docs.google.com/presentation/d/e/2PACX-1vTEug2btwy5IwPxraDnqxtTJpFNuPLxW04jFvGN71-6toSselH2B_CRDKvpA-6O9FFuQsbJW6qmZecg/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="width: 100%; height: 569px; border: none;border-radius: 10px;"></iframe>
+<script>
+  window.addEventListener('resize', adjustIframeWidth);
+
+  function adjustIframeWidth() {
+    var frame = document.getElementById('presentation-frame');
+    frame.style.width = window.innerWidth + 'px';
+  }
+
+  adjustIframeWidth();
+</script>
+
+
+<script>
+  const texts = [
+    "Colectivos Juveniles & 7 Proyectos Transformadores para Nuestro Colectivo Juvenil"
+  ];
+
+  texts.forEach((text, index) => {
+    let indexCounter = 0;
+    const typingElement = document.getElementById(`typing-effect-${index + 1}`);
+
+    function typeText() {
+      if (indexCounter < text.length) {
+        typingElement.textContent += text.charAt(indexCounter);
+        indexCounter++;
+        setTimeout(typeText, 150);
+      }
+    }
+
+    typeText();
+  });
+</script>

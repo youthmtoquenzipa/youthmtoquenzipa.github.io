@@ -4,6 +4,58 @@
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/youthmtoquenzipa/com', text: 'Let\'s Talk', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
 <!-- Final del widget de globo de Calendly -->
 
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+ 
+
+    body {
+    margin: 0;
+    padding: 0;
+    font-family: "Courier Prime", monospace;
+    background-color: #fdfdfe;
+  }
+
+    h5 {
+    font-size: 30px;
+    font-weight: bold; 
+    color: #553c9a;
+    border-right: 4px solid #000;
+    white-space: pre-line;
+    overflow: hidden;
+    margin: 0;
+    font-family: "Courier Prime", monospace;
+    }
+
+  h4 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #553c9a;
+    border-right: 4px solid #000;
+    white-space: pre-line;
+    overflow: hidden;
+    margin: 0;
+    font-family: "Courier Prime", monospace;
+    }
+
+  h1 {
+    font-size: 30px;
+    font-weight: bold; 
+    color: #553c9a;
+    border-right: 4px solid #000;
+    white-space: pre-line;
+    overflow: hidden;
+    margin: 0;
+    font-family: "Courier Prime", monospace;
+    }
+
+  @keyframes cursor {
+    0%, 100% { border-color: transparent; }
+    50% { border-color: #000; }
+  }
+</style>
+
+
 # **Misión, Visión & Virtudes**
 
 {bdg-success}`Core Values`
@@ -14,6 +66,7 @@
     
 ---      
 
+<h4 id="typing-effect-1"></h4>
 
 En esta comunidad de jóvenes en Tocancipá, se identifican una serie de virtudes clave que desempeñan un papel central en el desarrollo personal y colectivo. Entendamos que los valores son los fundamentos conceptuales y los pilares de una cultura organizacional o una comunidad, mientras que las virtudes son las manifestaciones prácticas y personales de esos valores.
 
@@ -70,13 +123,14 @@ Expandir las oportunidades y la participación socio-política de lo que enmarca
 Trascender las barreras del núcleo familiar, promoviendo el diálogo y caminando junto a aquellos que carecen de esperanza. Buscamos abrir espacios y brindar oportunidades a quienes se autoexcluyen, trabajando activamente para construir una comunidad más inclusiva y solidaria.
 ```
 
-## **Construyendo Nuestra Identidad**   
+<h4>Creando Nuestra Identidad a través del Arte de Escuchar</h4>
 
 {bdg-success}`visión, mision y valores/virtudes`
 
 En nuestra búsqueda por crecer y evolucionar como comunidad de jóvenes profesionales comprometidos, reconocemos la importancia de revisar y actualizar nuestra misión, visión y valores. Como profesionales, tenemos la responsabilidad de asegurarnos de que estos fundamentos reflejen nuestra identidad actual, nuestras aspiraciones y los desafíos que enfrentamos en Tocancipá.
 
-## **¿Te gustaría dar tu opinión?: ¡Tu Ayuda Hará la Diferencia!**  
+
+<h4>¿Te gustaría dar tu opinión?: ¡Tu Ayuda Hará la Diferencia!</h4> 
 
 Antes de opinar, reflexiona sobre las siguientes preguntas para ayudarte a formar una opinión crítica.
 
@@ -97,3 +151,24 @@ Antes de opinar, reflexiona sobre las siguientes preguntas para ayudarte a forma
 +++
 **Así vamos en opiniones?** **[Haz clic aquí 🌍](https://lookerstudio.google.com/reporting/284af396-c974-4a52-95d4-4211325369c3)**
 ````
+
+<script>
+  const texts = [
+    "Pilares Esenciales en la Comunidad Juvenil"
+  ];
+
+  texts.forEach((text, index) => {
+    let indexCounter = 0;
+    const typingElement = document.getElementById(`typing-effect-${index + 1}`);
+
+    function typeText() {
+      if (indexCounter < text.length) {
+        typingElement.textContent += text.charAt(indexCounter);
+        indexCounter++;
+        setTimeout(typeText, 150);
+      }
+    }
+
+    typeText();
+  });
+</script>
