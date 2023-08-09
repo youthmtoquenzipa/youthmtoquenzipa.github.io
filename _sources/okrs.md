@@ -9,9 +9,53 @@
 
 {bdg-primary}`Building OKRs`
 
-<center>
-    <img src="https://i.ibb.co/g9wcR68/3.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
-</center>
+<style>
+  #myCarousel .carousel-inner .carousel-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+</style>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicadores -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Slides -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://i.ibb.co/n1BVKLr/4.jpg" alt="Imagen 1" class="d-block">
+    </div>
+    <div class="carousel-item">
+      <img src="https://i.ibb.co/R0DdkvW/7.jpg" alt="Imagen 2" class="d-block">
+    </div>
+    <div class="carousel-item">
+      <img src="https://i.ibb.co/19Qb9Qz/6.jpg" alt="Imagen 3" class="d-block">
+    </div>
+  </div>
+
+  <!-- Controles -->
+  <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Anterior</span>
+  </a>
+  <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Siguiente</span>
+  </a>
+</div>
+
+<script>
+  require(['jquery', 'bootstrap'], function($) {
+    $(document).ready(function() {
+      $('#myCarousel').carousel();
+    });
+  });
+</script>
     
 ---      
 
