@@ -21,7 +21,21 @@ Cada uno de nuestros Objetivos y Resultados Clave representa una valiosa oportun
 
 Te desafío a sumergirte en esta apasionante propuesta de OKRs estratégicos. *Al aceptar este desafío, daremos un giro radical a nuestras carreras y a nuestra organización en beneficio de todos.* ¡No pierdas la oportunidad de formar parte de esta increíble transformación!
 
-## **Propuesta [OKRs](https://docs.google.com/presentation/d/1aQFXNXdGlR0QxelRAidRK3AqUV65QUOgP5RFopeG5Fs/edit)**
+## **Propuesta OKRs**
+
+<iframe id="presentation-frame" src="https://docs.google.com/presentation/d/e/2PACX-1vSG2JJOUXOnzKstwyqDMx2MBjsQaVTtPQOmTbabjpnxAIzVyb0E9j7cPWqVj4OJxrOKmqcxqOsDWuTC/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="width: 100%; height: 569px; border: none;border-radius: 10px;"></iframe>
+<script>
+  window.addEventListener('resize', adjustIframeWidth);
+
+  function adjustIframeWidth() {
+    var frame = document.getElementById('presentation-frame');
+    frame.style.width = window.innerWidth + 'px';
+  }
+
+  adjustIframeWidth();
+</script>
+
+
 
 
 ```{admonition} Objetivo Socio-Político

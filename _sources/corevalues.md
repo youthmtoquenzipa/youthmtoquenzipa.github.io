@@ -17,11 +17,27 @@
 
 En esta comunidad de jóvenes en Tocancipá, se identifican una serie de virtudes clave que desempeñan un papel central en el desarrollo personal y colectivo. Entendamos que los valores son los fundamentos conceptuales y los pilares de una cultura organizacional o una comunidad, mientras que las virtudes son las manifestaciones prácticas y personales de esos valores.
 
-En cuanto a la misión y visión, son pilares fundamentales en la comunidad de jóvenes, ya que proporcionan dirección, propósito y aspiraciones a largo plazo. Al estar alineadas con los valores y virtudes identificados, estas declaraciones guían las acciones de los jóvenes y promueven un cambio positivo en la comunidad, contribuyendo a la construcción de una sociedad más inclusiva, solidaria y esperanzadora.
+En cuanto a la misión y visión, son pilares fundamentales en la comunidad de jóvenes, ya que proporcionan dirección, propósito y aspiraciones a largo plazo. Al estar alineadas con los valores y virtudes identificados, estas declaraciones guían las acciones de los jóvenes y promueven un cambio positivo en la comunidad, contribuyendo a la construcción de una sociedad más inclusiva, solidaria y esperanzadora. {bdg-warning}`Click to Show` 
 
 
-```{admonition} Valores/Virtudes 👆
+
+```{admonition} Misión 👆
 :class: tip, dropdown
+Expandir las oportunidades y la participación socio-política de lo que enmarca un grupo juvenil regular. Nos dedicamos a empoderar a los jóvenes, brindándoles las herramientas y el apoyo necesario para que sean agentes de cambio en nuestra comunidad.
+```
+
+```{admonition} Visión 👆
+:class: tip, dropdown
+Trascender las barreras del núcleo familiar, promoviendo el diálogo y caminando junto a aquellos que carecen de esperanza. Buscamos abrir espacios y brindar oportunidades a quienes se autoexcluyen, trabajando activamente para construir una comunidad más inclusiva y solidaria.
+```
+
+
+```{admonition} Virtudes 👆
+:class: tip, dropdown
+
+
+🔍 **Valores vs Virtudes**: Los valores son los fundamentos conceptuales y los pilares de una cultura organizacional o una comunidad, mientras que las virtudes son las manifestaciones prácticas y personales de esos valores.  
+
 
 - 💡 **Conexión Auténtica**:  Fomentamos una comunicación abierta, respetuosa y efectiva entre los jóvenes y con la comunidad en general. Valoramos la escucha activa y la expresión clara de ideas y sentimientos.
 
@@ -53,3 +69,31 @@ Expandir las oportunidades y la participación socio-política de lo que enmarca
 :class: tip, dropdown
 Trascender las barreras del núcleo familiar, promoviendo el diálogo y caminando junto a aquellos que carecen de esperanza. Buscamos abrir espacios y brindar oportunidades a quienes se autoexcluyen, trabajando activamente para construir una comunidad más inclusiva y solidaria.
 ```
+
+## **Construyendo Nuestra Identidad**   
+
+{bdg-success}`visión, mision y valores/virtudes`
+
+En nuestra búsqueda por crecer y evolucionar como comunidad de jóvenes profesionales comprometidos, reconocemos la importancia de revisar y actualizar nuestra misión, visión y valores. Como profesionales, tenemos la responsabilidad de asegurarnos de que estos fundamentos reflejen nuestra identidad actual, nuestras aspiraciones y los desafíos que enfrentamos en Tocancipá.
+
+## **¿Te gustaría dar tu opinión?: ¡Tu Ayuda Hará la Diferencia!**  
+
+Antes de opinar, reflexiona sobre las siguientes preguntas para ayudarte a formar una opinión crítica.
+
+
+- ¿Crees que la `visión, mision y valores/virtudes` son lo suficientemente comprensibles?
+- ¿Crees que estas definiciones inspirarán y motivarán a los jóvenes?
+- ¿Las virtudes propuestas son relevantes y aplicables a las situaciones y desafíos que enfrentamos como equipo?
+- ¿Cómo podemos asegurarnos de que estas definiciones se integren de manera efectiva en nuestras actividades diarias?
+
+
+````{card} **¿Estás listo para darnos tu opinión crítica?**
+
+> ¡Desata tu creatividad 🧠🤯💭 y exprésate desde tu punto de vista!
+^^^
+**[¡Haz clic aquí y revisemos juntos cada definición!](https://docs.google.com/forms/d/e/1FAIpQLSePEtjKj1WEBNjQFZMqZjW-NzOJ7KWFs0rcJtKf_93EBbrh0Q/viewform?usp=sf_link)**
++++
+*Nunca te arrepentirás de ser parte de este gran equipo.*
++++
+**Así vamos en opiniones?** **[Haz clic aquí 🌍](https://lookerstudio.google.com/reporting/284af396-c974-4a52-95d4-4211325369c3)**
+````
