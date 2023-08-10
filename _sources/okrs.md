@@ -218,7 +218,7 @@ Jóvenes, no sean espectadores, vayan en busca de grandes sueños
       if (indexCounter < text.length) {
         typingElement.textContent += text.charAt(indexCounter);
         indexCounter++;
-        setTimeout(typeText, 150);
+        setTimeout(typeText, 90);
       }
     }
 
