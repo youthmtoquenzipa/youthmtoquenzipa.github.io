@@ -125,7 +125,7 @@ A continuación, te presentamos 7 emocionantes proyectos que podríamos llevar a
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/s2YFJdq/1-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 3vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🌱EcoMind Wellness</p>
+        <p style="margin: 0; font-size: 2vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🌱EcoMind Wellness</p>
     </div>
 </div>
 
@@ -150,7 +150,7 @@ Es una iniciativa que busca transformar los espacios verdes públicos en entorno
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/9Y0D3cY/2-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 3vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🪴Youth Change Makers Hub</p>
+        <p style="margin: 0; font-size: 2vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🪴Youth Change Makers Hub</p>
     </div>
 </div>
 
@@ -182,7 +182,7 @@ Consiste en desarrolar un plataforma colaborativa diseñada para jóvenes líder
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/Y23w1dG/3-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 3vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🪴Cultura Viva</p>
+        <p style="margin: 0; font-size: 2vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🪴Cultura Viva</p>
     </div>
 </div>
 
@@ -209,7 +209,7 @@ Esta propuesta busca no solo busca preservar nuestras tradiciones culturales, si
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/MPPx8zB/4-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 3vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🪴EcoQuest Pioneers</p>
+        <p style="margin: 0; font-size: 2vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🪴EcoQuest Pioneers</p>
     </div>
 </div>
 
@@ -235,7 +235,7 @@ Impulsar el turismo sostenible liderado por jóvenes en nuestras comunidades. Em
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/4sPRgQX/5-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 3vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🪴Mentor Verse</p>
+        <p style="margin: 0; font-size: 2vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🪴Mentor Verse</p>
     </div>
 </div>
 
@@ -267,7 +267,7 @@ El estudio exhaustivo de la población con discapacidades en Tocancipá proporci
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/82Kz9qN/6-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 3vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🪴Organic Vertical Market</p>
+        <p style="margin: 0; font-size: 2vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🪴Organic Vertical Market</p>
     </div>
 </div>
 
@@ -289,7 +289,7 @@ Implementar prácticas de agricultura vertical sostenible en nuestra comunidad. 
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/c8fHC78/7-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 3vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🪴Green Electronics Challenge</p>
+        <p style="margin: 0; font-size: 2vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🪴Green Electronics Challenge</p>
     </div>
 </div>
 
