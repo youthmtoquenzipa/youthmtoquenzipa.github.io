@@ -125,13 +125,17 @@ Te desafío a sumergirte en esta apasionante propuesta de OKRs estratégicos. *A
 
 **Impulsar la participación socio-política de los jóvenes del municipio de Tocancipá mediante programas locales y de la gobernación de Cundinamarca** 
 
-- [x] **Key Result**: Liderar un proyecto de impacto en colaboración con la secretaría de Integración Social y el Banco de Iniciativas Juveniles de la Gobernación de Cundinamarca.
+🌱**Key Result**: Liderar un proyecto de impacto en colaboración con la secretaría de Integración Social y el Banco de Iniciativas Juveniles de la Gobernación de Cundinamarca.   
 
-- [x] **Key Result**: Establecer una figura pública de profesionales voluntarios destacados que brinden un sólido respaldo a los jóvenes y sus necesidades reales.
 
-- [x] **Key Result**: Realizar encuestas, entrevistas o grupos de enfoque con al menos 20 jóvenes del municipio para comprender sus intereses, preocupaciones y las razones por las que no participan activamente en el ámbito socio-politico.
+🌱**Key Result**: Establecer una figura pública de profesionales voluntarios destacados que brinden un sólido respaldo a los jóvenes y sus necesidades reales.   
 
-- [x] **Key Result**: Analizar las principales tendencias y actividades en las que los jóvenes de Tocancipá invierten su tiempo libre, identificando oportunidades para establecer una conexión relevante con ellos.
+
+🌱**Key Result**: Realizar encuestas, entrevistas o grupos de enfoque con al menos 20 jóvenes del municipio para comprender sus intereses, preocupaciones y las razones por las que no participan activamente en el ámbito socio-politico.   
+
+
+🌱**Key Result**: Analizar las principales tendencias y actividades en las que los jóvenes de Tocancipá invierten su tiempo libre, identificando oportunidades para establecer una conexión relevante con ellos.   
+
 ```
 
 
@@ -140,15 +144,20 @@ Te desafío a sumergirte en esta apasionante propuesta de OKRs estratégicos. *A
 {bdg-primary}`Líderes`   
 
 
-**Formar líderes comprometidos con la doctrina social de la iglesia** 
+**Formar líderes comprometidos con la doctrina social de la iglesia**    
 
-- [x] **Key Result**: Organizar talleres atractivos mensuales de formación en la doctrina social de la iglesia, con una asistencia mínima de 5 jóvenes en cada encuentro.
 
-- [x] **Key Result**: Identificar y capacitar a 5 jóvenes líderes excepcionales en habilidades de liderazgo y compromiso con la misión del grupo.
+🌱**Key Result**: Organizar talleres atractivos mensuales de formación en la doctrina social de la iglesia, con una asistencia mínima de 5 jóvenes en cada encuentro.   
 
-- [x] **Key Result**: Realizar una destacada actividad de servicio comunitario o voluntariado en colaboración con la secretaría de Ambiente y otras organizaciones, que contribuyan con recursos funcionales o materiales, involucrando a al menos 20 jóvenes entusiastas.
 
-- [x] **Key Result**: Llevar a cabo una campaña de sensibilización sobre un problema social específico en Tocancipá, utilizando diversos medios de comunicación y redes sociales, logrando una participación activa de al menos 20 jóvenes comprometidos.
+🌱**Key Result**: Identificar y capacitar a 5 jóvenes líderes excepcionales en habilidades de liderazgo y compromiso con la misión del grupo.    
+
+
+🌱**Key Result**: Realizar una destacada actividad de servicio comunitario o voluntariado en colaboración con la secretaría de Ambiente y otras organizaciones, que contribuyan con recursos funcionales o materiales, involucrando a al menos 20 jóvenes entusiastas.   
+
+
+🌱**Key Result**: Llevar a cabo una campaña de sensibilización sobre un problema social específico en Tocancipá, utilizando diversos medios de comunicación y redes sociales, logrando una participación activa de al menos 20 jóvenes comprometidos.   
+
 ```
 
 ```{admonition} Objetivo Cultura Organizacional
@@ -156,13 +165,17 @@ Te desafío a sumergirte en esta apasionante propuesta de OKRs estratégicos. *A
 {bdg-primary}`Cultura Organizacional`   
 
 
-**Potenciar la cultura organizacional y aumentar el compromiso del equipo** 
+**Potenciar la cultura organizacional y aumentar el compromiso del equipo**   
 
-- [x] **Key Result**: Celebrar reuniones quincenales del equipo, con una asistencia del 90% de los miembros.
 
-- [x] **Key Result**: Estimular la amistad y el compañerismo mediante la organización de vibrantes actividades sociales y recreativas al menos una vez al mes.
+🌱**Key Result**: Celebrar reuniones quincenales del equipo, con una asistencia del 90% de los miembros.   
 
-- [x] **Key Result**: Establecer una visión compartida del equipo y diseñar un plan estratégico a corto plazo con la participación activa de todos los miembros.
+
+🌱**Key Result**: Estimular la amistad y el compañerismo mediante la organización de vibrantes actividades sociales y recreativas al menos una vez al mes.   
+
+
+🌱**Key Result**: Establecer una visión compartida del equipo y diseñar un plan estratégico a corto plazo con la participación activa de todos los miembros.   
+
 
 ```
 
@@ -173,11 +186,14 @@ Te desafío a sumergirte en esta apasionante propuesta de OKRs estratégicos. *A
 
 **Establecer una estructura organizativa sólida y unificada.** 
 
-- [x] **Key Result**: Establecer comités de trabajo en áreas clave, como comunicaciones, eventos, voluntariado y formación. Renovar constantemente la estructura organizacional de acuerdo a la propuesta e iniciativas internas..
+🌱**Key Result**: Establecer comités de trabajo en áreas clave, como comunicaciones, eventos, voluntariado y formación. Renovar constantemente la estructura organizacional de acuerdo a la propuesta e iniciativas internas.   
 
-- [x] **Key Result**: Realizar una reunión mensual de planificación organizacional estratégica y seguimiento, con la participación de todos los miembros del grupo.
 
-- [x] **Key Result**: Diseñar un sistema de reconocimiento y motivación para los miembros del grupo, a través de la entrega de certificados, menciones especiales y otros reconocimientos simbólicos por su destacada contribución y compromiso.
+🌱**Key Result**: Realizar una reunión mensual de planificación organizacional estratégica y seguimiento, con la participación de todos los miembros del grupo.    
+
+
+🌱**Key Result**: Diseñar un sistema de reconocimiento y motivación para los miembros del grupo, a través de la entrega de certificados, menciones especiales y otros reconocimientos simbólicos por su destacada contribución y compromiso.   
+
 
 ```
 
@@ -196,6 +212,16 @@ Te desafío a sumergirte en esta apasionante propuesta de OKRs estratégicos. *A
 
   adjustIframeWidth();
 </script>
+
+
+````{card} **¿Estás listo para darnos tu opinión crítica?**
+
+> ¡Desata tu creatividad 🧠🤯💭 y exprésate desde tu punto de vista!
+^^^
+**[¡Haz clic aquí y revisemos juntos cada definición!](https://forms.gle/XUeN3N18CRDspta2A)**
++++
+*Nunca te arrepentirás de ser parte de este gran equipo.*
+````
 
 
 ```{epigraph}

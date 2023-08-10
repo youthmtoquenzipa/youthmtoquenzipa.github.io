@@ -125,7 +125,7 @@ A continuación, te presentamos 7 emocionantes proyectos que podríamos llevar a
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/s2YFJdq/1-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 3vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">EcoMind Wellness</p>
+        <p style="margin: 0; font-size: 3vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🌱EcoMind Wellness</p>
     </div>
 </div>
 
@@ -289,7 +289,7 @@ Implementar prácticas de agricultura vertical sostenible en nuestra comunidad. 
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/c8fHC78/7-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 3vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🪴Electro Green Venture</p>
+        <p style="margin: 0; font-size: 3vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">🪴Green Electronics Challenge</p>
     </div>
 </div>
 
@@ -339,15 +339,14 @@ Es un proyecto disruptivo que busca fomentar la innovación sostenible a través
   adjustIframeWidth();
 </script>
 
+
 ````{card} **¿Estás listo para darnos tu opinión crítica?**
 
 > ¡Desata tu creatividad 🧠🤯💭 y exprésate desde tu punto de vista!
 ^^^
-**[¡Haz clic aquí y revisemos juntos cada definición!](https://youthmtoquenzipa.github.io/colectivo.html)**
+**[¡Haz clic aquí y revisemos juntos cada definición!](https://docs.google.com/forms/d/e/1FAIpQLSc7Wa0VHp4W7wXS0kHx0toeVwt502Q_YUm6pxb4RRQa3GHXaw/viewform?usp=sf_link)**
 +++
 *Nunca te arrepentirás de ser parte de este gran equipo.*
-+++
-**Así vamos en opiniones?** **[Haz clic aquí 🌍](https://youthmtoquenzipa.github.io/colectivo.html)**
 ````
 
 
