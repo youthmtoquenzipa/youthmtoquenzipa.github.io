@@ -64,7 +64,7 @@
   }
 </style>
 
-# **Home** 
+# Home 
 
 {bdg-success}`Youth Ministry`
 

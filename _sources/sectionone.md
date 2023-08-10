@@ -103,3 +103,17 @@
 </script>
     
 ---    
+<h4>Home ToC</h4>  
+<br>
+
+  - **[Misión, Visión & Virtudes](https://youthmtoquenzipa.github.io/sectionone.html)** Pilares fundamentales en la comunidad de jóvenes.
+  - **[Propuestas Colectivo Juvenil](https://youthmtoquenzipa.github.io/colectivo.html)** Jóvenes que buscan fomentar la participación activa, el empoderamiento y el cambio social.
+  - **[Propuesta de OKRs Estratégicos](https://youthmtoquenzipa.github.io/colectivo.html)** Crea un impacto duradero en nuestra comunidad
+
+
+
+```{epigraph}
+No dejes que lo que no puedes hacer interfiera con lo que puedes hacer
+
+-- John Wooden
+```

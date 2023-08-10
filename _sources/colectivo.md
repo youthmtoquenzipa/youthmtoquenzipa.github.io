@@ -113,7 +113,7 @@
 <h4 id="typing-effect-1"></h4>
 <br>
 
-Un colectivo juvenil es un grupo organizado de jóvenes que busca fomentar la participación activa, el empoderamiento y el cambio social. Se caracteriza por su creatividad y atractivo para motivar la colaboración de jóvenes en proyectos y actividades con un enfoque político-social. Su estructura se desarrolla gradualmente, partiendo de proyectos de baja o mediana complejidad, en concordancia con la experiencia colectiva y el deseo de una participación más significativa.
+Un colectivo juvenil es un grupo organizado de jóvenes que buscan fomentar la participación activa, el empoderamiento y el cambio social. Se caracteriza por su creatividad y atractivo para motivar la colaboración de jóvenes en proyectos y actividades con un enfoque político-social. Su estructura se desarrolla gradualmente, partiendo de proyectos de baja o mediana complejidad, en concordancia con la experiencia colectiva y el deseo de una participación más significativa.
 
 <h4>Propuestas Increíbles: Transformando Ideas en Realidad</h4>
 <br>
@@ -125,7 +125,7 @@ A continuación, te presentamos 7 emocionantes proyectos que podríamos llevar a
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/s2YFJdq/1-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 30px; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">1️⃣🪴EcoMind Wellness</p>
+        <p style="margin: 0; font-size: 2vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">1️⃣🪴EcoMind Wellness</p>
     </div>
 </div>
 
@@ -147,7 +147,7 @@ Es una innovadora iniciativa que busca transformar los espacios verdes públicos
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/9Y0D3cY/2-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 30px; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">2️⃣🪴Youth Change Makers Hub</p>
+        <p style="margin: 0; font-size: 2vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">2️⃣🪴Youth Change Makers Hub</p>
     </div>
 </div>
 
@@ -175,11 +175,9 @@ Se espera empoderar a los jóvenes líderes, brindándoles las herramientas y el
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/Y23w1dG/3-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 30px; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">3️⃣🪴Cultura Viva</p>
+        <p style="margin: 0; font-size: 2vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">3️⃣🪴Cultura Viva</p>
     </div>
 </div>
-
-
 
 ```{admonition} Un Llamado a Tejer Juntos
 :class: note, dropdown
@@ -210,7 +208,7 @@ Se espera empoderar a los jóvenes líderes, brindándoles las herramientas y el
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/MPPx8zB/4-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 30px; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">4️⃣🪴EcoQuest Pioneers</p>
+        <p style="margin: 0; font-size: 2vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">4️⃣🪴EcoQuest Pioneers</p>
     </div>
 </div>
 
@@ -245,7 +243,7 @@ Las actividades incluyen capacitación en turismo sostenible, apoyo a jóvenes e
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/4sPRgQX/5-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 30px; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">5️⃣🪴Mentor Verse</p>
+        <p style="margin: 0; font-size: 2vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">5️⃣🪴Mentor Verse</p>
     </div>
 </div>
 
@@ -297,7 +295,7 @@ Estos proyectos, "DreamSquad" y "EmpowerAbilities", tienen el potencial de trans
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/82Kz9qN/6-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 30px; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">6️⃣🪴Organic Vertical Market</p>
+        <p style="margin: 0; font-size: 2vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">6️⃣🪴Organic Vertical Market</p>
     </div>
 </div>
 
@@ -336,7 +334,7 @@ Estos dos proyectos centrados en la agricultura vertical sostenible y la platafo
 <div style="position: relative; display: flex; align-items: center;">
     <img src="https://i.ibb.co/c8fHC78/7-Sub.jpg" alt="Imagen" style="width: 100%; max-width: 100%; border-radius: 10px;">
     <div style="position: absolute; top: 0; left: 5px; display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 5px; box-sizing: border-box;">
-        <p style="margin: 0; font-size: 30px; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">7️⃣🪴Electro Green Venture</p>
+        <p style="margin: 0; font-size: 2vw; font-weight: bold; background-color: rgba(255, 255, 255, 0.7); border-radius: 5px; padding: 5px;">7️⃣🪴Electro Green Venture</p>
     </div>
 </div>
 
