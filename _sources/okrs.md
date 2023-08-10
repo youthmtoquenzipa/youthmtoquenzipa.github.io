@@ -5,27 +5,18 @@
 <!-- Final del widget de globo de Calendly -->
 
 
-
-
 <style>
-  #myCarousel .carousel-inner .carousel-item img {
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
-  }
-
   @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
  
-
     body {
     margin: 0;
     padding: 0;
     font-family: "Courier Prime", monospace;
     background-color: #fdfdfe;
-  }
+    }
 
     h5 {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold; 
     color: #553c9a;
     border-right: 4px solid #000;
@@ -61,9 +52,15 @@
     0%, 100% { border-color: transparent; }
     50% { border-color: #000; }
   }
+
+  #myCarousel .carousel-inner .carousel-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
 </style>
 
-# **Propuesta de OKRs Estratégicos** 
+# Propuesta de OKRs Estratégicos 
 
 {bdg-primary}`Building OKRs`
 
@@ -110,6 +107,7 @@
 ---   
 
 <h4 id="typing-effect-1"></h4>  
+<br>
 
 Marca la diferencia y **crea un impacto duradero en nuestra comunidad**. ¡Únete a esta emocionante travesía hacia el cambio positivo! Los OKRs estratégicos serán nuestra *brújula infalible*, guiándonos hacia nuestros objetivos y fortaleciendo la cultura organizacional con un propósito claro.
 
@@ -184,8 +182,8 @@ Te desafío a sumergirte en esta apasionante propuesta de OKRs estratégicos. *A
 ```
 
 
-<h4>Presentando OKRs: Convirtiendo Conceptos en Resultados Cuantificables</h4>
-
+<h5>Presentando OKRs: Convirtiendo Conceptos en Resultados Cuantificables</h5>
+<br>
 
 <iframe id="presentation-frame" src="https://docs.google.com/presentation/d/e/2PACX-1vSG2JJOUXOnzKstwyqDMx2MBjsQaVTtPQOmTbabjpnxAIzVyb0E9j7cPWqVj4OJxrOKmqcxqOsDWuTC/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="width: 100%; height: 569px; border: none;border-radius: 10px;"></iframe>
 <script>

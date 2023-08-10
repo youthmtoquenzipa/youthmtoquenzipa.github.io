@@ -6,16 +6,6 @@
 <!-- Final del widget de globo de Calendly -->
 
 
-
-
-# **Home** 
-
-{bdg-success}`Youth Ministry`
-
-*¡Únete a la Revolución Juvenil de Fe!*  
-
-
-
 <style>
   #myCarousel .carousel-inner .carousel-item img {
     width: 100%;
@@ -74,6 +64,12 @@
   }
 </style>
 
+# **Home** 
+
+{bdg-success}`Youth Ministry`
+
+*¡Únete a la Revolución Juvenil de Fe!*  
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicadores -->
   <ol class="carousel-indicators">
@@ -117,8 +113,9 @@
     
 ---      
 
-
-Jóvenes, no sean espectadores, vayan en busca de grandes sueños
+```{admonition} Papa Francisco
+No subestimen el poder de su generación para transformar realidades y ser agentes de justicia y solidaridad.
+```
 
 Sabemos que como jóven universitari@ o profesional, tienes un **espíritu inquieto** y un deseo profundo de marcar la diferencia en el mundo. **Te invitamos a ser parte de la Revolución Juvenil de Fe**, donde exploraremos la Doctrina Social de la Iglesia como guía para transformar la sociedad.
 
@@ -129,6 +126,8 @@ Queremos desafiarte a ser parte activa de la **transformación social**. A trav�
 ---
 
 
-```{admonition} Papa Francisco
-No subestimen el poder de su generación para transformar realidades y ser agentes de justicia y solidaridad.
+```{epigraph}
+Jóvenes, no sean espectadores, vayan en busca de grandes sueños
+
+-- Papa Francisco
 ```

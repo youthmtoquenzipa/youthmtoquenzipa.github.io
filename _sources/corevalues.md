@@ -17,7 +17,7 @@
   }
 
     h5 {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold; 
     color: #553c9a;
     border-right: 4px solid #000;
@@ -67,6 +67,7 @@
 ---      
 
 <h4 id="typing-effect-1"></h4>
+<br>
 
 En esta comunidad de jóvenes en Tocancipá, se identifican una serie de virtudes clave que desempeñan un papel central en el desarrollo personal y colectivo. Entendamos que los valores son los fundamentos conceptuales y los pilares de una cultura organizacional o una comunidad, mientras que las virtudes son las manifestaciones prácticas y personales de esos valores.
 
@@ -92,46 +93,47 @@ Trascender las barreras del núcleo familiar, promoviendo el diálogo y caminand
 🔍 **Valores vs Virtudes**: Los valores son los fundamentos conceptuales y los pilares de una cultura organizacional o una comunidad, mientras que las virtudes son las manifestaciones prácticas y personales de esos valores.  
 
 
-- 💡 **Conexión Auténtica**:  Fomentamos una comunicación abierta, respetuosa y efectiva entre los jóvenes y con la comunidad en general. Valoramos la escucha activa y la expresión clara de ideas y sentimientos.
+💡 **Conexión Auténtica**:  Fomentamos una comunicación abierta, respetuosa y efectiva entre los jóvenes y con la comunidad en general. Valoramos la escucha activa y la expresión clara de ideas y sentimientos.  
 
-- 💡 **Solidaridad**: Nos comprometemos a ser solidarios con los más necesitados, brindando apoyo y colaboración tanto dentro como fuera de la comunidad de jóvenes en Tocancipá.
 
-- 💡 **Humildad Transformadora**: Promovemos la renuncia al egoísmo. Reconocemos que nuestros talentos y habilidades son dones que deben ser utilizados para el servicio de los demás.
+💡 **Solidaridad**: Nos comprometemos a ser solidarios con los más necesitados, brindando apoyo y colaboración tanto dentro como fuera de la comunidad de jóvenes en Tocancipá.  
 
-- 💡 **Inspiración Viva**: Nos esforzamos por ser modelos a seguir en nuestra conducta y acciones. Actuamos de acuerdo con nuestros valores y principios, siendo coherentes en todas las áreas de nuestra vida.
 
-- 💡 **Sabiduría Práctica en Práctica**: Buscamos el crecimiento personal y espiritual a través del estudio, la reflexión y la acción. No solo adquirimos conocimientos, sino que también los aplicamos en nuestra vida diaria para generar un impacto positivo.
+💡 **Humildad Transformadora**: Promovemos la renuncia al egoísmo. Reconocemos que nuestros talentos y habilidades son dones que deben ser utilizados para el servicio de los demás.  
 
-- 💡 **Logro Práctico**: Nos comprometemos a alcanzar metas concretas y a obtener resultados tangibles en nuestros proyectos y acciones. Trabajamos con determinación y perseverancia para lograr nuestros objetivos.
 
-- 💡 **Espíritu de Aventura**: Nos motivamos a explorar nuevos horizontes y a emprender proyectos audaces que nos desafían. Nos esforzamos por superar nuestros propios límites y alcanzar metas aparentemente inalcanzables, impulsados por una determinación inquebrantable.
+💡 **Inspiración Viva**: Nos esforzamos por ser modelos a seguir en nuestra conducta y acciones. Actuamos de acuerdo con nuestros valores y principios, siendo coherentes en todas las áreas de nuestra vida.  
 
-- 💡 **Contribución Constructiva**: Nos consideramos agentes de cambio en nuestra comunidad. Contribuimos activamente en la construcción de un mundo mejor, promoviendo valores y acciones positivas en todos los aspectos de la sociedad.
 
-- 💡 **Responsabilidad Empoderadora**: Asumimos la responsabilidad de nuestras decisiones y acciones. Nos consideramos dueños de nuestro propio crecimiento y desarrollo, tomando el control de nuestras vidas y asumiendo las consecuencias de nuestras elecciones.
+💡 **Sabiduría Práctica en Práctica**: Buscamos el crecimiento personal y espiritual a través del estudio, la reflexión y la acción. No solo adquirimos conocimientos, sino que también los aplicamos en nuestra vida diaria para generar un impacto positivo.  
 
-- 💡 **Humildad**: Reconocemos nuestras limitaciones y aceptamos nuestros errores. Valoramos la autenticidad y la capacidad de aprender de los demás. Cultivamos la humildad como una virtud fundamental para nuestro crecimiento espiritual.
+
+💡 **Logro Práctico**: Nos comprometemos a alcanzar metas concretas y a obtener resultados tangibles en nuestros proyectos y acciones. Trabajamos con determinación y perseverancia para lograr nuestros objetivos.  
+
+
+💡 **Espíritu de Aventura**: Nos motivamos a explorar nuevos horizontes y a emprender proyectos audaces que nos desafían. Nos esforzamos por superar nuestros propios límites y alcanzar metas aparentemente inalcanzables, impulsados por una determinación inquebrantable.  
+
+
+💡 **Contribución Constructiva**: Nos consideramos agentes de cambio en nuestra comunidad. Contribuimos activamente en la construcción de un mundo mejor, promoviendo valores y acciones positivas en todos los aspectos de la sociedad.  
+
+
+💡 **Responsabilidad Empoderadora**: Asumimos la responsabilidad de nuestras decisiones y acciones. Nos consideramos dueños de nuestro propio crecimiento y desarrollo, tomando el control de nuestras vidas y asumiendo las consecuencias de nuestras elecciones.  
+
+
+💡 **Humildad**: Reconocemos nuestras limitaciones y aceptamos nuestros errores. Valoramos la autenticidad y la capacidad de aprender de los demás. Cultivamos la humildad como una virtud fundamental para nuestro crecimiento espiritual.  
+
 ```
 
-```{admonition} Draft Misión 👆
-:class: tip, dropdown
-Expandir las oportunidades y la participación socio-política de lo que enmarca un grupo juvenil regular. Nos dedicamos a empoderar a los jóvenes, brindándoles las herramientas y el apoyo necesario para que sean agentes de cambio en nuestra comunidad.
-```
 
-```{admonition} Draft Visión 👆
-:class: tip, dropdown
-Trascender las barreras del núcleo familiar, promoviendo el diálogo y caminando junto a aquellos que carecen de esperanza. Buscamos abrir espacios y brindar oportunidades a quienes se autoexcluyen, trabajando activamente para construir una comunidad más inclusiva y solidaria.
-```
-
-<h4>Creando Nuestra Identidad a través del Arte de Escuchar</h4>
+<h5>Creando Nuestra Identidad a través del Arte de Escuchar</h5>
 
 {bdg-success}`visión, mision y valores/virtudes`
 
 En nuestra búsqueda por crecer y evolucionar como comunidad de jóvenes profesionales comprometidos, reconocemos la importancia de revisar y actualizar nuestra misión, visión y valores. Como profesionales, tenemos la responsabilidad de asegurarnos de que estos fundamentos reflejen nuestra identidad actual, nuestras aspiraciones y los desafíos que enfrentamos en Tocancipá.
 
 
-<h4>¿Te gustaría dar tu opinión?: ¡Tu Ayuda Hará la Diferencia!</h4> 
-
+<h5>¿Te gustaría dar tu opinión?: ¡Tu Ayuda Hará la Diferencia!</h5> 
+<br>
 Antes de opinar, reflexiona sobre las siguientes preguntas para ayudarte a formar una opinión crítica.
 
 
@@ -149,7 +151,7 @@ Antes de opinar, reflexiona sobre las siguientes preguntas para ayudarte a forma
 +++
 *Nunca te arrepentirás de ser parte de este gran equipo.*
 +++
-**Así vamos en opiniones?** **[Haz clic aquí 🌍](https://lookerstudio.google.com/reporting/284af396-c974-4a52-95d4-4211325369c3)**
+**Así vamos en opiniones?** **[Haz clic aquí 🌍](https://youthmtoquenzipa.github.io/corevalues.html)**
 ````
 
 <script>
