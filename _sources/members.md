@@ -111,6 +111,16 @@
 
 Aquí están, nuestros talentosos miembros del equipo, quienes nutren la chispa de la juventud y el ámbito universitario con su dedicación y creatividad.
 
+
+````{card} **Collaborators**
+
+> Uniendo rostros y voces, creamos una identidad única en nuestro equipo.
+^^^
+**[¡Únete ahora y da vida a nuestra comunidad!](https://docs.google.com/forms/d/e/1FAIpQLSdi6mC3rkBKMv8cl7_916cMceg_xxAXrl5f9M0vSvAYV3XeaA/viewform?usp=sf_link)**
++++
+*No te arrepentirás de ser parte de este gran equipo.*
+````
+
 ```{epigraph}
 La verdadera medida de cualquier sociedad es cómo trata a aquellos que son más vulnerables
 
